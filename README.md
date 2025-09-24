@@ -44,6 +44,18 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 
 ## 5. Modeling & Evaluation
 
+# Modeling approach
+- Document Embeddings: Compliance policies are preprocessed, cleaned, and transformed into vector embeddings.
+- Embedding Storage: These embeddings are serialized (SEC5_embeddings.pkl) for efficient reuse.
+- Similarity Search: A FAISS index is used to match user queries against the embedded policy text, enabling semantic navigation beyond keyword matching.
+- Model Goal: Ensure relevant, context-aware answers that align with compliance rules and procedures.
+
+# Evaluation
+- Retrieval Testing: Queries are benchmarked against expected policy responses to confirm accuracy.
+- Relevance Check: Evaluates whether retrieved excerpts correctly reflect the compliance intent.
+- Efficiency: Verifies that FAISS provides scalable, low-latency search over large document sets.
+- Validation: Continuous validation with subject-matter experts (compliance officers) to confirm correctness.
+
 ## 6. Conclusion
 
 ## 7. Repository Navigation
