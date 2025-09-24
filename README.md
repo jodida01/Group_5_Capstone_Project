@@ -1,7 +1,11 @@
-# FinComBot -- Compliance Chatbot
+# FINCOMBOT -- COMPLIANCE CHATBOT
+
+FinComBot is an AI-powered compliance chatbot designed to streamline customer onboarding and strengthen regulatory compliance in financial institutions. By providing staff with instant, policy-aligned answers to KYC and AML-related queries, the solution reduces onboarding delays, improves compliance consistency, and minimizes regulatory risks. We propose a phased implementation beginning with a pilot on KYC and onboarding procedures.
 
 ![AI Chatbot](Images/HeaderImage.jpg)
-## 1. Background
+
+
+## 1. Business Understandng
 
 Financial institutions face increasing pressure to comply with stringent regulatory frameworks governing customer onboarding, Know Your Customer (KYC), Customer Due Diligence (CDD), Enhanced Due Diligence (EDD), Anti-Money Laundering (AML), Counter Terrorism Financing, Counter Proliferation Financing (CPF), and sanctions screening. These obligations are complex, continuously evolving, and vary across jurisdictions.
 
@@ -10,6 +14,8 @@ Staff often face difficulties accessing and interpreting regulatory documents an
 -	Inconsistent application of compliance procedures.
 -	Overdependence on compliance officers for basic guidance.
 -	Increased risk of regulatory breaches which may lead to fining by regulators and put the bank at risk of its license being suspended.
+
+This creates a clear need for a real-time compliance chatbot that can provide instant, accurate answers to compliance-related queries, improve consistency, and reduce operational risk
 
 ## 2. Project Objective
 
