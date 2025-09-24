@@ -55,47 +55,11 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 - Relevance Check: Evaluates whether retrieved excerpts correctly reflect the compliance intent.
 - Efficiency: Verifies that FAISS provides scalable, low-latency search over large document sets.
 - Validation: Continuous validation with subject-matter experts (compliance officers) to confirm correctness.
-
+***
 ## 6. Conclusion
 
 ## 7. Repository Navigation
 
--   **Framework**: Implemented in Jupyter Notebook.\
--   **Core Libraries**: Likely includes Python packages for NLP,
-    embeddings, and chatbot interaction.\
--   **Model**: Leverages language models for natural language
-    understanding.\
--   **Deployment**: Can be integrated into internal compliance systems
-    or chat platforms.
-
-## 5. Getting Started
-
-### Prerequisites
-
--   Python 3.8+\
--   Jupyter Notebook\
--   Required libraries (see `requirements.txt` if available).
-
-### Installation
-
-``` bash
-git clone <repo-url>
-cd fincombot
-pip install -r requirements.txt
-```
-
-### Running the Notebook
-
-``` bash
-jupyter notebook index.ipynb
-```
-
-## 6. Future Work
-
--   Deploy as a web-based or Slack/Teams chatbot.\
--   Integrate with live regulatory data sources.\
--   Expand to cover multiple jurisdictions.
-
-## 7. License
+## 8. License
 
 [MIT License](LICENSE)
