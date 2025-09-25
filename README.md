@@ -19,7 +19,7 @@ This creates a clear need for a real-time compliance chatbot that can provide in
 
 ## 2. Business Objective
 
--  Build a chatbot that retrieves accurate compliance information from the bank’s KYC policy and responds to staff queries.
+ Build a chatbot that retrieves accurate compliance information from the bank’s KYC policy and responds to staff queries.
 
 ## 3. Target Audience
 
