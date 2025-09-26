@@ -57,8 +57,24 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 - Validation: Continuous validation with subject-matter experts (compliance officers) to confirm correctness.
 ***
 ## 6. Conclusion
-
+FinComBot provides a structured pipeline for cleaning, preprocessing, and analyzing regulatory documents, preparing them for embedding-based retrieval. The chatbot will empower financial institution staff to access compliance guidance instantly, improving efficiency, reducing regulatory risks, and enhancing customer experience.
 ## 7. Repository Navigation
+index.ipynb          # Main notebook containing workflow and experiments
+│
+├── 1. Project Overview
+│   ├── Background, Objectives, and Target Audience
+│
+├── 2. Data Handling
+│   ├── 4.1 Loading Data
+│   ├── 4.2 Data Preprocessing
+│   │    ├── Cleaning & Normalization
+│   │    ├── Exploratory Document Statistics
+│   │    └── Text Cleaning Functions
+│
+├── 3. Exploratory Data Analysis (EDA)
+    ├── 5.1 Visual comparison of original vs cleaned text
+    ├── 5.2 Text chunking (~500 words)
+    └── 5.3 Handling chunk size outliers
 
 
 
