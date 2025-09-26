@@ -60,6 +60,6 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 
 ## 7. Repository Navigation
 
-## 8. License
 
-[MIT License](LICENSE)
+
+
