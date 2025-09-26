@@ -59,6 +59,7 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 ## 6. Conclusion
 FinComBot provides a structured pipeline for cleaning, preprocessing, and analyzing regulatory documents, preparing them for embedding-based retrieval. The chatbot will empower financial institution staff to access compliance guidance instantly, improving efficiency, reducing regulatory risks, and enhancing customer experience.
 ## 7. Repository Navigation
+```plaintext
 index.ipynb          # Main notebook containing workflow and experiments
 │
 ├── 1. Project Overview
@@ -72,10 +73,15 @@ index.ipynb          # Main notebook containing workflow and experiments
 │   │    └── Text Cleaning Functions
 │
 ├── 3. Exploratory Data Analysis (EDA)
-    ├── 5.1 Visual comparison of original vs cleaned text
-    ├── 5.2 Text chunking (~500 words)
-    └── 5.3 Handling chunk size outliers
-
+│   ├── 5.1 Visual comparison of original vs cleaned text
+│   ├── 5.2 Text chunking (~500 words)
+│   └── 5.3 Handling chunk size outliers
+│
+└── 4. Next Steps (Future Work)
+    ├── Embedding generation
+    ├── Retrieval-based QA/chatbot integration
+    └── Model evaluation & fine-tuning
+```
 
 
 
