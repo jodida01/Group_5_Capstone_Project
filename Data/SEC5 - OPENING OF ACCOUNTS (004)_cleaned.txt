@@ -1,0 +1,5057 @@
+OPENING OF ACCOUNTS
+
+TABLE OF CONTENTS
+
+1 INTRODUCTION 11
+
+1.1 General 11
+
+2 ACCOUNT OPENING REQUIREMENTS 11
+
+2.1 Know Your Customer (KYC) 11
+
+2.2 Account Opening Requirements on Referee 11
+
+2.3 Documentation Required for Account Opening 12
+
+2.4 Account Opening Requirements for Foreign Nationals 34
+
+2.4.1 Resident Foreign Nationals 34
+
+2.4.2 Account Opening Requirements for Non-Resident Foreign Nationals (As Per CBK Prudential Guidelines). 35
+
+2.4.3 Minimum requirements for Resident Foreigners 35
+
+2.4.4 Account Opening Requirements for Companies with Foreign Nationals as Directors 35
+
+2.4.5 Account Opening Requirements for Temporary Residents (Students, Spouses, Attaché's to Foreign Missions in Kenya, Next Of Kin etc.) 36
+
+2.4.6 Non-resident Foreigners 36
+
+2.5 Account Opening Requirements for Scrap Metal Dealers 36
+
+2.5.1 Additional Account opening requirements for Scrap Metal Dealers 36
+
+2.6 Requirements for Opening a Medical Fund Account 37
+
+2.7 Account Opening Requirements for Religious Organizations 39
+
+2.7.1 Main Church 39
+
+2.7.2 Church Branch Account 39
+
+2.8 Account opening requirements for Private Institutions 40
+
+2.9 Requirements for Change of Signatories for Club, Society, Association, Mission, NGO, Trade Union and Self-Help Groups 41
+
+2.9.1 Disputed Changes 41
+
+2.9.2 Source of instructions/Reason to freeze an account 41
+
+2.10 Requirements for Opening of Additional Accounts 42
+
+2.11 Type of Forms 42
+
+2.11.1 Conditions for Use of Form A1 (g) 43
+
+2.12 Requirements for Change of Signatories and signing mandate for joint account and partnerships account. 45
+
+2.13 Customer Centric Products Engagement Forms 48
+
+2.14 Customer Engagement Forms - Critical Data Elements 50
+
+3 LIABILITY PRODUCTS 54
+
+4 General Information 55
+
+4.1 Deposits to Accounts 55
+
+4.2 Withdrawals from Accounts 56
+
+4.3 Interest on Accounts 56
+
+4.4 Cheque Books 56
+
+4.5 National Government Constituency Development Fund Accounts 56
+
+4.5.1 Dormant Accounts 56
+
+4.5.2 Transfer of Accounts 57
+
+5 ESCROW ACCOUNTS 57
+
+5.1 Customer Initiated Escrow Accounts: 57
+
+5.2 Bank Initiated Escrow Accounts: 58
+
+5.3 Escrow Account Management 58
+
+5.4 Escrow Account Properties 59
+
+6 STAFF ACCOUNTS 59
+
+6.1 Ex-staff Current Accounts 59
+
+6.1.1 Transferring of staff accounts to Ex staff accounts in Finacle at the branch. 60
+
+6.2 Ex-staff Loan accounts 60
+
+6.3 Staff Credit Cards 62
+
+6.3.1 Credit Card Operation While still in Service 62
+
+6.3.2 Staff Members on suspension 62
+
+6.3.3 Staff Leaving the Bank 62
+
+6.3.4 Implications 63
+
+7 STANDARDS OF SERVICE 63
+
+7.1 Interviews 63
+
+7.1.1 Prohibited Accounts 63
+
+7.2 Controls 64
+
+7.3 Time 64
+
+7.4 Authorizing Officer 65
+
+8 ACCOUNT OPENING PROCESS FLOW (BPMS) 65
+
+8.1 Responsibility 65
+
+8.2 Personal and Jumbo Junior Account Opening Process Flow on BPMS 65
+
+8.3 Logging in BPMS (Process Maker) 66
+
+8.4 Starting a case 67
+
+8.5 Customer Type Selection 68
+
+8.6 Creation of Party ID for Marketed Accounts 69
+
+8.7 Applicant Identification Document Verification 69
+
+8.8 Verification Results 70
+
+8.8.1 Finacle Blacklist Results 70
+
+8.8.2 IPRS Information 70
+
+8.8.3 KRA PIN information 72
+
+8.8.4 Finacle Existing Accounts 73
+
+8.8.5 Party Relationships 73
+
+8.9 Capture of Customers Details 74
+
+8.9.1 Customer Details 74
+
+8.9.2 Party Address Details 75
+
+8.9.3 Physical Address 75
+
+8.9.4 Residential Status 75
+
+8.9.5 Contacts Details 76
+
+8.9.6 Contact Person Details 76
+
+8.9.7 Contact Preference 77
+
+8.9.8 Other Co-op Accounts 77
+
+8.9.9 Employment Details 77
+
+8.9.10 KYC Details 79
+
+8.9.11 Product Selection and AML Details 79
+
+8.9.12 AML Risk Calculation 81
+
+8.9.13 Account Relationship Details 82
+
+8.9.14 Fatca Details 82
+
+8.10 Cross Selling 82
+
+8.10.1 My payments 82
+
+8.10.2 Mco-op Cash and Online Banking 83
+
+8.10.3 Alerts Subscription 83
+
+8.10.4 Standing Order 84
+
+8.11 Capture of Customers Photo, ID Document Front and Back 84
+
+8.11.1 Walk In Customers 84
+
+8.11.2 Marketed Accounts 85
+
+8.12 Select the Signature Type 85
+
+8.12.1 Capture of Customers Signature 86
+
+8.13 View Account Details 87
+
+8.14 Opening of Multiple Accounts 87
+
+8.15 Generating Documents (e-form) 89
+
+8.16 Signing of Terms and Conditions 89
+
+8.16.1 Upload of Documents 90
+
+8.16.2 Saving of Documents 90
+
+8.16.3 Uploading of Documents 90
+
+8.16.4 RTS Cases for Wrong Attachment 91
+
+8.16.5 Amendment Process 91
+
+8.17 Forwarding to BOS for Verification and Quality Assurance 92
+
+8.18 Deferred Case 92
+
+8.19 Joint, Sole Proprietorship and Company Accounts Opening Process 93
+
+8.19.1 Process Flow 93
+
+8.20 Alterations on the Account Opening Mandate 94
+
+8.20.1 Confirmation of the Alteration 95
+
+8.21 Blacklist Enquiry 95
+
+9 ACCOUNT OPENING PROCESS FLOW (FINACLE) 96
+
+9.1 Responsibility 96
+
+9.2 Retail CIF Process Flow 97
+
+9.3 Creating a Retail Customer Information File (CIF) 98
+
+9.4 Selecting Customer Type 99
+
+9.5 Performing Dedup, Negative List, blacklist & IPRS Checks 100
+
+9.6 Capturing Basic Details 103
+
+9.7 Capturing Identification Document for a Retail CIF 103
+
+9.7.1 Identification Document Summary 103
+
+9.7.2 Adding a Saved Document using the Add Mode 106
+
+9.7.3 Adding a Saved Document Using Link Mode 106
+
+9.7.4 Adding Document using Capture Mode 108
+
+9.7.5 Adding of Customers Address 109
+
+9.8 Adding Residence/Permanent Address (Physical Address) 110
+
+9.9 Capturing of Diaspora Accounts Address 111
+
+9.10 Capturing Contact Details 112
+
+9.11 Capturing Other Details 114
+
+9.12 Capturing the Residential Details 114
+
+9.13 Capturing Miscellaneous Details 115
+
+9.14 Capturing Currency Details 115
+
+9.15 Generating KRA Details: 116
+
+10 CIF ENRICHMENT (FINACLE) 117
+
+10.1 Additional Details 118
+
+10.2 Previous Name Details 118
+
+10.3 Qualification Details 119
+
+10.4 Employment details 120
+
+10.5 Reporting and References Details 121
+
+11 bank defined details 121
+
+11.1 Foreign Account Tax Details/FATCA 122
+
+11.2 Details of Business Entities 123
+
+11.3 Relationship Details with other banks 124
+
+11.4 Group and Household Details 125
+
+11.5 Customer Mapping Details 125
+
+11.6 Next of kin Details 126
+
+11.7 Bank Defined Details 127
+
+11.7.1 Pricing Details 127
+
+11.7.2 Business Analytics 127
+
+11.7.3 Risk Rating and Score Details 128
+
+11.7.4 Relationship Manager Details 129
+
+11.7.5 Access Control Details 129
+
+11.8 Details for Official Use 130
+
+11.9 Details for Core Banking 131
+
+11.10 Disaster Relief Details 131
+
+12 Preference Details 132
+
+12.1 Personal Preferences 132
+
+12.2 Preferences in Bank Services 132
+
+12.3 Product Preferences 133
+
+12.4 Contact Preferences 133
+
+13 Financial Details 135
+
+13.1 Asset and Charge Details 136
+
+13.2 Income and Expenditure Details 136
+
+14 RELATIONSHIP Details 137
+
+14.1 Social and Banking relationship List 137
+
+14.2 Corporate Relationship List 138
+
+15 Verifying Retail Customer INFORMATION File (CIF) 139
+
+15.1 Approve 143
+
+15.2 Rework 144
+
+15.3 Close 144
+
+16 Account Opening Individual Retail customer 145
+
+16.1 Introduction 146
+
+16.2 Account Opening Menus 146
+
+16.3 Opening a Retail Account 146
+
+16.4 Additional Details 148
+
+16.5 Tax Details 151
+
+16.6 Scheme Details Field 152
+
+16.7 Nomination Details Field 153
+
+16.8 Related Party Details 154
+
+16.9 Account Limit Details 155
+
+16.10 General Details 155
+
+16.11 Signature Mandates 156
+
+16.12 Funding Instructions 156
+
+16.13 Exception Limit Details 157
+
+16.14 Bank Employee Details 158
+
+16.15 Documents Details 158
+
+16.16 Flexi Fixed Deposit Details 159
+
+16.17 Payment System Details 160
+
+16.18 MIS Details 161
+
+16.19 Other Details 162
+
+17 Capture Of Customers Photo, Signature for Individual Retail Account 163
+
+17.1 Generate Form 163
+
+17.2 CACOF Verification for Individual Retail Account 164
+
+17.3 Modifying Account Before Verification 165
+
+17.4 Account Opening Verification 166
+
+18 Joint Account Opening 168
+
+18.1 Introduction 168
+
+18.2 Joint Account Opening 168
+
+18.3 Additional Details 170
+
+18.4 Tax Details 173
+
+18.5 Scheme Details Field 174
+
+18.6 Nomination Details Field 175
+
+18.7 Related Party Details 176
+
+18.8 Account Limit Details 177
+
+18.9 General Details 177
+
+18.10 Signature Mandates 178
+
+18.11 Funding Instructions 178
+
+18.12 Exception Limit Details 179
+
+18.13 Bank Employee Details 180
+
+18.14 Documents Details 180
+
+18.15 Flexi Fixed Deposit Details 181
+
+18.16 Payment System Details 182
+
+18.17 MIS Details 183
+
+18.18 Other Details 184
+
+18.19 Joint Account Opening Photos & Signature Joint Account 185
+
+18.20 Verification of Joint Account Opening 186
+
+19 Corporate Account Opening Process 187
+
+19.1 Creating a Corporate Customer Information File 187
+
+19.2 Basic Details 190
+
+19.3 Capturing of Identification Document for a Corporate CIF 191
+
+19.4 Adding Address for Corporate CIF 192
+
+19.5 Capture Other Details 196
+
+19.6 Additional Details 198
+
+19.7 Background Check Details 200
+
+19.8 Customer Mapping 203
+
+19.9 Risk rating and Score Details 204
+
+19.10 Access Control Details 204
+
+19.11 Details for Official Use 205
+
+19.12 Details for Core Banking 205
+
+19.13 Review Details 206
+
+19.14 Other Details 206
+
+19.15 Preference Details 207
+
+19.16 Product and Preferences 207
+
+19.17 Financial Details 209
+
+19.17.1 Transaction Details 209
+
+19.17.2 Corporate Financial Details 209
+
+19.17.3 Other Details 210
+
+19.17.4 Relationship Details 211
+
+19.17.5 Corporate Branch Relationship 212
+
+19.18 Corporate CIF Verification 214
+
+19.19 Corporate Account Opening Process 219
+
+19.19.1 Additional Details 220
+
+19.19.2 Photo & Signature capture for Corporate Account Opened 235
+
+19.19.3 CACOF Verification for Corporate Account Opening 236
+
+19.19.4 Corporate Account Opening Verification 237
+
+19.20 Corporate Account /Joint accounts Rules (Maintaining and mapping of the rules) 237
+
+19.20.1 Add a Rule 237
+
+19.20.2 Verify Rule 242
+
+19.20.3 Inquire Rule 243
+
+19.20.4 Common Rules 245
+
+19.20.5 Mapping Account Rules 245
+
+19.20.6 Verify Account Signature Map 247
+
+20 MINOR ACCOUNT OPENING 249
+
+20.1 Introduction 249
+
+20.2 Minor CIF Creation 249
+
+20.3 Capturing Basic Details. 250
+
+20.4 Adding Customer Address 253
+
+20.5 Capturing Contact Details. 253
+
+20.6 Capturing Other Details. 253
+
+20.7 Additional Details. 253
+
+20.8 Bank Defined Details. 253
+
+20.9 Preferences Details. 253
+
+20.10 Financial Details. 253
+
+20.11 Relationship Details. 253
+
+20.12 Verification of Retail CIF 254
+
+20.13 Minor Account Opening 254
+
+20.13.1 Basic Account Details 254
+
+20.13.2 Capture Additional Details 255
+
+20.14 Photo & Signature Capture for Minor Account 257
+
+20.15 CACOF Verification for Minor Account 258
+
+20.16 Minor Account Opening Verification 258
+
+20.17 Unborn CIF Creation 258
+
+20.18 Basic Details Page 260
+
+20.19 Adding Customer Address Summary 262
+
+20.20 Capturing Contact Details 262
+
+20.21 Capturing Other Details 262
+
+20.22 Unborn Child Account Opening 263
+
+21 Marketed Account 263
+
+22 ModifyING Account Before Verification 264
+
+23 CancelING Savings/Current Account Opening Before Verification 266
+
+24 Transfer of account between schemes 268
+
+24.1 Cancelling of account transfer between schemes 269
+
+24.2 Verification of transfer of accounts between schemes 269
+
+OPENING OF ACCOUNTS
+
+INTRODUCTION
+
+General
+
+This section deals with the procedure of opening both transactional and Savings Bank accounts.
+
+The initial deposits into a new account can be in the following forms:
+
+Cash
+
+Bankers' cheque
+
+Cheque drawn on Co-operative Bank of Kenya
+
+Cheque drawn on other banks (Allowed for Corporate Customers only)
+
+Where cheques are used in opening accounts care shall be taken to ensure that no drawing is allowed until the proceeds of the cheque have been received.
+
+ACCOUNT OPENING REQUIREMENTS
+
+Know Your Customer (KYC)
+
+KYC at the point of account opening is crucial and staff shall perform a thorough KYC for the persons opening the account and understand the nature of their business.
+
+Staff shall ensure that all accounts opened meet the legal requirements of KYC. This includes ensuring that all the identification documents are obtained at inception.
+
+Staff shall ensure that all documents obtained from customers are properly filed and readily available for audit purpose.
+
+Hand-over process and procedures on stamps shall be adhered to.
+
+Note:
+
+When a business relationship is being established, the staff Onboarding the customer shall establish the nature of the business that the customer expects to conduct with the Bank to show what might be expected as normal activity. The legitimacy of the customer's business shall be clearly understood.
+
+The staff shall identify the customer and verify the customer's identity using reliable, independent source documents, data or information.
+
+The customer information shall be properly captured and archived for future reference and audit purposes
+
+Account Opening Requirements on Referee
+
+In instances where the Branch requires additional information to confirm the identity of a customer, a referee is required.
+
+Acceptable referees are as follows: -
+
+Bank Relationship Officer, to be countersigned by the Branch Manager.
+
+Letter of introduction from employer/Sacco;
+
+Certified bank statements
+
+Bank reference
+
+A business search shall be required except for the following entities:
+
+Natural persons
+
+National Government Departments
+
+County Governments
+
+Government owned institutions e.g., Parastatals, Authorities etc.
+
+National/County Government owned educational institutions i.e. Primary Schools, Secondary Schools, Colleges, Tertiary Institutions and Universities.
+
+Companies listed in the Nairobi Securities Exchange
+
+Banks & DTMs regulated by CBK
+
+Church Branch, where the Main Church Banks with us
+
+For SHGs, Call back shall be done to the DSDO to confirm the officials appointed as signatories.
+
+On receipt of the search results from Legal Department, the Account Opening Officer shall verify the following details against details provided by the customer on the account opening form and details provided on the account opening documents.
+
+Company Name
+
+Registration Number
+
+Company Postal Addresses (must tally in all account opening documents and company search results)
+
+Company Physical Address
+
+Names of directors
+
+Postal addresses of the directors,
+
+Nationality (shall guide on the expected identification document)
+
+All details must tally in all aspects
+
+Any discrepancies must be referred to the Branch Manager for advice on the way forward.
+
+Documentation Required for Account Opening
+
+Note:
+
+All copies of the required documents must be certified against the original documents.
+
+Refer to additional information section for Foreign Nationals as detailed under "Account Opening Requirements for Foreign Nationals"
+
+Account Opening Requirements for Foreign Nationals
+
+Resident Foreign Nationals
+
+A Foreign National is any person who is not a citizen of Kenya.
+
+A Resident Foreign National is a non-citizen living/residing in Kenya.
+
+Dual Citizenship – a citizen of Kenya by birth who acquires citizenship of another country is entitled to retain the citizenship of Kenya and are allowed to use any of the passport or travel documents.
+
+Temporary Residents (students, spouses, attaché's to foreign missions in Kenya, next of kin etc).
+
+The law requires that the presence in Kenya of any person who is not a citizen of Kenya shall unless authorized under the law be in a possession of a valid work permit, valid residence permit or valid pass.
+
+Valid permits and passes however do not apply to the persons described
+
+Below, nonetheless official documents to confirm the same must be provided and must be verified; A valid passport is a requirement too for this category.
+
+Accredited representatives to Kenya of any commonwealth country including their spouses, children, and staff.
+
+Accredited envoy to Kenya of a foreign sovereign state including their spouse and children, staff.
+
+accredited diplomatic/consular staff
+
+Persons with lawful immunities and privileges
+
+Persons exempted by the cabinet secretary
+
+Residence permits/work permits/passes are issued under the classes indicated below; the permit must specify the profession or area of specialty.
+
+Class A – Prospecting and Mining
+
+Class B – Agriculture and animal husbandry
+
+Class C – Prescribed profession
+
+Class D – Employment
+
+Class F – Specific manufacturing
+
+Class G – Specific trade, business, or consultancy
+
+Class I – Approved religious or charitable activities
+
+Class K – Ordinary residents
+
+Class M – Refugees
+
+Permanent Residence Certificate
+
+Special Pass – for temporary business, trade or profession. Can be used to open a bank account.
+
+Other passes
+
+Dependant's Pass
+
+Visitors
+
+Research
+
+Interns
+
+Transit
+
+Prohibited immigrant
+
+Inadmissible person's Passes
+
+All these passes are not permissible for opening bank accounts.
+
+Account Opening Requirements for Non-Resident Foreign Nationals (As Per CBK Prudential Guidelines).
+
+For prospective non-Kenyan resident customers who wish to open accounts without face-to-face contact, it will not be practical to seek sight of an original passport or national identity card. There are a few alternative measures that can be taken:
+
+Branches, subsidiaries, head offices, representative offices or correspondent banks in the prospective customer's home country may be used to confirm identity or as an agent to check personal verification and address details;
+
+Where the institution has no group presence or correspondent relationship in the country of residence, a copy of the passport authenticated by an attorney, notary or consulate could be obtained; or
+
+Call back through the embassy
+
+Minimum requirements for Resident Foreigners
+
+Photocopy of the customer's Valid Passport whose expiry is not less than 12 months
+
+A valid Visa or Entry Permit
+
+Work Permit specifying the profession or area of specialty.
+
+Alien Certificate of Registration ID or document confirming Immigrant status in Kenya.
+
+Foreign national registration certificate (Alien Certificate)
+
+Account Opening Requirements for Companies with Foreign Nationals as Directors
+
+Foreign Nationals who are Directors of companies/entities incorporated in Kenya must provide an appropriate residence or work permit in addition to the other account opening requirements.
+
+Account Opening Requirements for Temporary Residents (Students, Spouses, Attaché's to Foreign Missions in Kenya, Next Of Kin etc.)
+
+Valid Passport
+
+Valid Visa
+
+Valid Proof of Residence (utility bills)
+
+An employment contract or short duration assignment letter from the employer
+
+Student ID Card and student admission letter
+
+Referee for other category such as spouse, next of kin etc apart from students and those employed
+
+Non-resident Foreigners
+
+A valid Passport whose expiry date is not less than 12 months
+
+Entry Visa/permit
+
+Prove of ties with Kenya. E.g. Marriage certificate for spouses, employment contract for non-resident directors/employees, etc
+
+Account Opening Requirements for Scrap Metal Dealers
+
+Scrap metal dealers are customers dealing in the business of acquiring/buying/selling/disposal of reclaimed metals.
+
+The Scrap Metal Act No. 1 of 2015 was assented on 7th January and commenced on 23rd January 2015.
+
+Under the act Part 1-Preliminary definitions, the following are the players in the Industry:
+
+Agents
+
+Collectors
+
+The scrap metal council (Yet to be Formed)
+
+Licensee
+
+The Cabinet Secretary and the
+
+Permanent Secretary who all have functions and roles to play.
+
+Additional Account opening requirements for Scrap Metal Dealers
+
+Requirements for Opening a Medical Fund Account
+
+Account Opening Requirements for Religious Organizations
+
+Main Church
+
+Registration Certificate from the registrar of societies
+
+Board resolution to open the account, signed off by the trustees/Directors.
+
+Church's KRA PIN certificate
+
+Church's constitution
+
+IDs of Signatories- Originals and copies for certification
+
+Signatories KRA PIN certificate
+
+One coloured passport size photograph for every signatory
+
+Search- A fee of Kes. 1,500.00 shall be deposited to the account.
+
+Duly filled Account opening Mandate
+
+Church Branch Account
+
+Registration Certificate from the registrar of societies for the main church. Certification of the document by SDO's shall not be required if original document has not been sighted. The signatories shall be required to sign on the presented copy of registration certificate, and the SDO to verify the signatures against those appended on the account opening mandate.
+
+Board resolution to open additional/branch account
+
+Letter from parent church signed off by the directors/trustees.
+
+Call back to be done, and details indicated on the Letter as per stipulated call back procedure.
+
+Church's KRA PIN certificate
+
+IDs of Signatories- Originals and copies for certification
+
+Signatories PIN certificate
+
+One coloured passport size photograph for every signatory
+
+For churches that do not bank with us- Search for the main church MUST be provided – A search fee of Kes. 1,500.00 will be deposited into the account.
+
+Duly filled Account opening mandate
+
+Note: Affiliate Churches Account Opening requirements are the same as those of a Church Branch Account.
+
+Account opening requirements for Private Institutions
+
+Requirements for Change of Signatories for Club, Society, Association, Mission, NGO, Trade Union and Self-Help Groups
+
+The following procedure shall be applied in the event that there is need to change signatories to an account by the above category of clients:
+
+Current officials shall report the need for change the domicile Branch.
+
+Change of Signatories form shall be given to the Customer
+
+The incoming officials shall execute the form and attach a copy of the resolution endorsed by the relevant authority as per the registration of the organization.
+
+Note: Relevant Authority being representatives of the concerned ministries or parent body
+
+Disputed Changes
+
+In case of disputes, the account shall be frozen until the disputing parties resolve the dispute through court of law or the relevant authority for arbitration. The account shall only be allowed to operate after confirmation from the Court or Arbitrator writes to the Bank on the resolution taken.
+
+The officials recognised by the High court/Societies Registrar shall be the ones recognised by the Bank.
+
+Source of instructions/Reason to freeze an account
+
+Where the bank has received a freeze order from a court of law
+
+Minutes of a meeting held by the members endorsed by the relevant authority being representatives of the concerned ministries or parent body.
+
+Where the bank has reasonably established that the customer is involved fraudulent activities
+
+Where the customer is deceased
+
+Dispute between parties issued though a court order or board resolution to freeze the account pending solution of a dispute
+
+Money laundering/terrorism financing
+
+Action to freeze the account shall be communicated to the customer.
+
+Requirements for Opening of Additional Accounts
+
+An additional account is an account opened for a customer who already has another account with the bank. This account is created from the CIF nine digits of the existing account i.e.
+
+New Customer account number format
+
+01101234567001
+
+CCY – 2 Digit
+
+101234567- CIF – 9 Digits
+
+RSN – 3 Digits
+
+01101234567 001
+
+If account 01101234567001 is the first account opened by the customer, the additional accounts can be opened as below:
+
+01101234567002
+
+01101234567003
+
+01101234567004
+
+The difference will only be seen on the Running sequence number RSN in the account id.
+
+KYC process must be done by the SDO for all category of customers.
+
+Type of Forms
+
+Conditions for Use of Form A1 (g)
+
+All customer data must be confirmed to exist in the Core Banking System.
+
+Where data is missing in the Core Banking System, the same shall be updated before using Form A1(g).
+
+Confirmation of validity of KYC documents i.e., passports, work permits/special passes/licences
+
+The forms must be approved by the Branch Manager or the Service Manager before they are submitted to BOS.
+
+Requirements
+
+Requirements for Change of Signatories and signing mandate for joint account and partnerships account.
+
+An account mandate is a document that sets out:
+
+who owns an account (often called the account holder or account owner)?
+
+who can use the account (and how it can be used)
+
+who can access information about the account.
+
+Customer Mandates, Orders or other Authorities are to be obtained in all instances where any person or persons are empowered to sign for others, either by virtue of authority granted or in their capacity as partner, Director, etc. or, where there is an instruction for the Bank to act in a certain manner for which the Bank requires to hold written authority.
+
+Account holders can let someone else operate the account. These people are often called authorised signatories. Account holders can also be authorised signatories. The Banks requires organizations such as companies, trusts and partnerships to have a certain number of directors, trustees, partners, or officers who are authorised signatories. It also requires rules about how such people access accounts.
+
+Bank officials are expected to act in accordance with the arrangement that has been specified. In the event changes arise on the composition of account signatories or outlook of signing mandate, the following procedure will be followed.
+
+Notes.
+
+All customer requests to change account signatories or account signing mandate shall be received and reviewed as per the banks KYC policies and procedure.
+
+All account signatories are required in person for changes on their composition and/or signing mandate.
+
+Any new signatories will be on boarded as per the account opening process.
+
+For Partnerships requiring change in signing mandate; Board resolution/Letter mentioning the change in account mandate signatories, specifically who is to be added/replaced, whether the mandate changes and the continuing signing mandate must be availed.
+
+For Joint accounts, the resolution shall be signed as per the mandate by signatories whose signatures are already held with the bank.
+
+For Joint accounts where a principal account holder ceases to be part of the signatories the account shall be closed as captured in the Closing of Accounts Manual.
+
+In the event of death of a principal signatory for both Joint and Partnership accounts, the accounts shall be handled as captured in the Closing of Accounts Manual
+
+Customer Centric Products Engagement Forms
+
+To improve on Customer Service, the Bank has come up with customer centric account engagement forms that offers a one-stop shop to all customers.
+
+The forms are:
+
+Form A1 (f) - Additional Products Engagement form
+
+Form A1 (a) - Personal/Joint Engagement form
+
+Form A1 (b) - Business/Package Engagement form
+
+Process flow.
+
+The account opening staff shall photocopy the Customer Engagement Form as per ticked products, file the copies in ONE general file for future reference and audit purpose.
+
+The account opening staff will scan the form and forward the same to the respective Head office Departments for action in one e-mail. This is for products whose service is not done end to end at the branch eg standing order, CIB etc.
+
+The original mandate shall be forwarded to BOS.
+
+The table below shows the process flow for each product.
+
+Every branch shall open one general file for filing copies of all the products done end to end at the branch/forwarded to head office for future reference and audit purpose.
+
+Jumbo Junior is not an additional product hence cannot be opened using additional products engagement form.
+
+Customer Engagement Forms - Critical Data Elements
+
+Customer engagement forms are designed in line with the KYC AND AML regulatory requirements.
+
+The required information's are critical data elements that the Bank must obtain during the customer onboarding process:
+
+LIABILITY PRODUCTS
+
+Liability products are categorised into three.
+
+Transactional Accounts
+
+Savings Accounts
+
+Term Deposits
+
+Transactional Account:
+
+A transactional account is one that:
+
+Has an ATM/Debit card
+
+Has NO restriction on number of withdrawals
+
+Attracts charges as prescribed in the Banks tariff
+
+May or may not attract interest as per contractual terms, for example, Current Accounts (CURNT), Co-op Salary Account (CPSAL), Haba na Haba Access (HATRA) etc.
+
+Savings Account:
+
+A savings account is one that:
+
+Does not have an ATM/Debit card
+
+Only permits one withdrawal per quarter (Anniversary)
+
+Withdrawal access of account is only permitted via Over the counter
+
+Does not attract any other form of charges
+
+Attracts interest, which is paid quarterly. (Calendar quarter)
+
+Term Deposit
+
+Term Deposits are: -
+
+Term Deposit: The amount and interest rate is fixed for the defined tenor/period for this account.
+
+Call Deposit: The amount and rate varies from time to time for this account. It has no defined tenor/period.
+
+Top up deposit: The amount is variable and the rate varies depending on the amount but the tenor/period is fixed for this account.
+
+General Information
+
+Savings Bank business provides valuable resources and encourages thrift by the provision of the means and accumulation of regular savings and by the payment of interest on such savings.
+
+Savings accounts are not designed or intended to provide the facilities available to current account holders or transactional accounts.
+
+Accounts are opened and maintained by the Bank on condition that the accounts are correctly conducted by the holders.
+
+Accounts shall not be opened or continued where the facilities required are inappropriate or where the minimum balance stipulated by the Bank is not offered or maintained.
+
+Improperly operated accounts shall be closed off after giving notice to the customer.
+
+Deposits to Accounts
+
+Deposits into accounts must be made using the appropriate cash/cheque deposit forms duly signed by the customer.
+
+Deposits made to the credit of an account held at another branch are accepted. Cheques presented must undergo the normal clearing procedures before the funds can be availed in the account.
+
+Commissions for deposits shall be charged as per the latest Bank tariff.
+
+Withdrawals from Accounts
+
+Withdrawals can be made at any of our Branches as per the circularised guidelines.
+
+Interest on Accounts
+
+The rate of interest allowed is that advised by the Managing Director's circular.
+
+Interest accrues be paid as per the contractual terms.
+
+Cheque Books
+
+It is under the Current accounts that chequebooks are normally issued
+
+Ledger fees/service fee is charged monthly with a minimum amount levied.
+
+National Government Constituency Development Fund Accounts
+
+The NGCDF accounts must be current accounts issued with cheques books requisitioned and singed for by the account authorised signatories as per the account opening mandates.
+
+The cheque books must be collected strictly by the Sub-county (District) Accountants in person and shall be accompanied by a letter signed by at least two signatories of the account.
+
+Standing imprest (for office use) by National Government Ministries, Parastatals, NGCDFs, Commissions, County Treasuries (DA) Constituent Offices and Affirmative fund is allowed up-to Kes. 1,000000.00 Per Transaction/Activity subject to supporting documents i.e. approved imprest warranty or payment voucher.
+
+Imprest required by Corporate level relationships by their officers and Forex is required, the introduced agent or imprest holder should provide the list of all end beneficiaries and normal due diligence and call-backs must be done.
+
+Monthly statements shall be provided separately to:
+
+The Sub-county (District) Accountant
+
+The NGCDC Treasurer
+
+The NGCDF National Secretariat shall be provided with statements by the account ARM as per the agreed schedule.
+
+Dormant Accounts
+
+In handling dormant accounts refer to the Section of the Operating Manual on Dormant Accounts.
+
+The system automatically flags an account as dormant if it has had no transactions for the last 12 months.
+
+Transfer of Accounts
+
+Service Desk Officer (SDOs) receives written customer instruction to transfer Account(s) and its balance to another Branch of the Bank. They shall:
+
+Amend customer address including postal code to reflect the new address (where Applicable).
+
+Forward the instructions via CRM to Back Office Support Department requesting for the change of the current Branch Code to the new Branch code. The instructions shall include full details of customer accounts.
+
+Note
+
+The changing of these details at BOS must be authorized by the In-charge before being effected in the system.
+
+Change of branch code in the customer register shall only be done in a situation where all customer accounts are being transferred.
+
+If the transfer is affecting one customer account, the branch code of the detailed account shall be changed. Any other subsequent account opened shall be domiciled at the original branch.
+
+Debit Cards
+
+If the customer is holding a debit card, the same must be indicated in the transfer request/letter. Back Office Support Department shall change the account domicile in the Card Management System.
+
+ESCROW ACCOUNTS
+
+An Escrow is a legal concept in which a financial instrument or an asset is held by a third party on behalf of two other parties that are in the process of completing a transaction. The funds or assets are held by the escrow agent until it receives the appropriate instructions or until predetermined contractual obligations are fulfilled. Money, securities, funds, and other assets can all be held in escrow. Examples include real estate transactions, banking, intellectual property, mergers and acquisitions, law and many others. Escrow accounts are opened for such purposes.
+
+The Bank has applied the use of Escrow accounts in two main methods:
+
+Customer Initiated Escrow Accounts:
+
+These are escrow accounts, which are requested for by a customer in order to fulfil a third-party condition for a certain project. This escrow account will be closed upon completion of the project.
+
+Example
+
+In an IPO trade, a stockbroker may request the Bank to open an escrow account where prospective buyers will deposit funds for purchase of the IPO shares. Upon allocation of shares, the utilized funds are sent to the IPO issuer and refunds credited back to the customer.
+
+Bank Initiated Escrow Accounts:
+
+These are accounts opened by the Bank for collection or build-up of funds by a borrower in order to honor a periodic debt obligation e.g. weekly / monthly / quarterly / yearly loan repayment. The debt is recovered from the escrow account as and when the periodic schedule becomes due.
+
+There are two types of Bank Initiated escrow accounts namely:
+
+Settlement Accounts - Commonly used for collection of repayments from employers for scheme borrowers e.g. Personal Loans Checkoff schemes, Sacco Personal Loans
+
+Business Escrow Accounts – Used for business customers whereby, the borrower continuously deposits funds directly in the escrow account to cater for an upcoming debt obligation.
+
+Escrow Account Management
+
+Escrow Account Properties
+
+Restricted access to the borrower or customer.
+
+Loan schedules can hunt for funds in the Escrow Accounts.
+
+Sweeping instructions/orders from transactional to escrow accounts are accepted.
+
+Funds credited in an escrow account do not earn any interest.
+
+STAFF ACCOUNTS
+
+Instructions to open staff current accounts originates from Human Resources and Administration Division (HRD)
+
+For staff posted to the Branch, the account opening shall be done at designated branch.
+
+For staff posted to Head Office Departments, the account opening shall be done at Co-operative House Branch.
+
+Staff can open any other account i.e., savings account bearing the same CIF with the main salary account, the concerned staff must fulfil all the requirements of opening such an account i.e., minimum opening balance
+
+All other terms in respect to the operations of the accounts shall be as per the Staff Manual & the Bank Operating Manual.
+
+Ex-staff Current Accounts
+
+Staff who retire from the Bank continue enjoying similar account benefits to those of the existing staff under scheme code STCUR.
+
+Accounts for staff who leave the Bank for reasons other than retirement shall bear similar features to those of a Customer Current Account under scheme code EXSTC.
+
+Upon demise of a staff member, the staff account to be retained under scheme code STCUR
+
+A deceased staff current account with a debit balance will have debit interest rate zero-rated (0%) to stop accruing additional charges. However, an account with a credit balance to continue earning interest where applicable. HRD shall advise the respective Branch to close the account(s) upon final payment of the benefits.
+
+Note:
+
+For branch staff exits, Human Resources shall forward account transfer instructions to the Branch Manager on the disengagement letter.
+
+For Head office and Co-op House branch staff exits, Human Resources shall share a list of exits from the two areas on monthly basis with the Service Manager, Co-op House to facilitate the account transfer process.
+
+Upon cessation of employment HRD shall advise the affected branch in writing on the category under which the staff account falls under.
+
+Ex-staff accounts are categorised in to two:
+
+Staff current Account - scheme code STCUR, staff who retire from the Bank shall continue to operate the account under the staff scheme code, but the account shall be flagged as follows:
+
+Corporate Flag shall be "Related"
+
+sector code shall be "Ex-staff"
+
+Ex-Staff Current Account - scheme code EXSTC, Account holders shall operate the account under similar features to those of a Customer Current Account.
+
+Where the Ex-staff participates in the conversion of the account, fresh mandate Account is initiated and opened.
+
+Without the participation of the ex-staff within thirty days' from the date of exit, the Branch shall transfer the staff current account to ex-staff current account category. The signing mandate shall be copied from the Staff current account.
+
+Transferring of staff accounts to Ex staff accounts in Finacle at the branch.
+
+Product transfer to be done using the menu TASS (Transfer Accounts between Schemes).
+
+This will be handled by Transferring the Staff Accounts (STCUR) to Ex Staff (EXSTC) using Finacle Menu TASS.
+
+TASS menu is used to transfer accounts within the same scheme type i.e., savings to savings and current to current (Refer to Chapter 25 - Transfer of account between schemes of Sec 5 - Opening of Accounts).
+
+Staff accounts guidelines:
+
+If the account is in credit, the scheme code shall be changed after the expiry of the notice. The main customer number must remain the same.
+
+If irregularly overdrawn, the account shall be blocked by the branch and demand notices issued while waiting for any monies owing from the bank to regularise the position.
+
+This account shall be downgraded immediately to avoid further escalation in amounts due to interest and penalty charges before a decision is made.
+
+The same shall then be referred to Remedial Management Department for further advice.
+
+The responsibility of managing the account remains with the Branch Manager.
+
+Ex-staff Loan accounts
+
+All Ex-Staff Loan Accounts are managed at Remedial Management Department.
+
+Upon cessation of employment HRD shall: -
+
+Forward file to Remedial Management Department
+
+Advise on the treatment of interest i.e. whether to remain at staff rate or commercial
+
+Remedial Management Department
+
+On receipt of instructions from HRD, Remedial Management Department shall proceed as follows:
+
+Staff Rates
+
+Instruct credit operations to:
+
+Create repayment schedules (the schedules is determined by the remaining period of the facility)
+
+Open the principal arrears accounts
+
+Create Standing Order
+
+Commercial Rates
+
+Same treatment as above with the following additions:
+
+Advise the Ex-staff on the applicable interest rate or demanding for the repayment of the facility.
+
+Instruct branch to downgrade account appropriately
+
+Instruct credit operations to amend the interest from staff to commercial
+
+Issue fresh letter of offer to the ex-staff, in case of rescheduling or restructuring
+
+Instruct Credit Operations Unit/branch on the relevant action
+
+Branch
+
+Upon advice from Remedial Management Department, down grade account appropriately.
+
+Credit Operations Unit
+
+On instructions from Remedial Management Department: -
+
+Amend Corporate Flag to "Related "and the Sector Code to "Ex-staff" category
+
+Open principal arrears
+
+Amend interest rates appropriately
+
+Load a new limit where applicable
+
+Consolidate account balances (where consolidation of outstanding current account/ arrears accounts with the existing loan account is required)
+
+Create repayment schedules for the new loan balance
+
+Establish standing order
+
+Staff Credit Cards
+
+Staff members qualify to apply for a credit card under staff terms after confirmation to permanent employment. Any staff seeking exemption must obtain clearance from Human Resources Development.
+
+The staff must meet all requirements i.e.
+
+Completion of the application form
+
+Provisions of a copy of the latest payslip.
+
+Signed letter of setoff
+
+Clearance from Human Resource Development Department
+
+Credit limit based on 67% of Net Income as per the latest payslip
+
+Credit Card Operation While still in Service
+
+Must always operate within the approved credit limit. Any violation to this leads to; -
+
+1st Reminder from Co-op card. If not paid and still spending
+
+2nd Reminder requesting surrender of card and giving a due date for settlement, if not the case is forwarded to Human Resource Development for further action and card stopped immediately.
+
+Must honour monthly Auto Pays, any violation to this leads to a demand by Card Centre for immediate settlement of the outstanding balances. If not, the case is forwarded to Human Resources Development for further action and card stopped immediately.
+
+Staff Members on suspension
+
+Once a staff member is suspended, Human Resources Development shall notify Card Centre immediately and Card Centre shall stop the card and recall it through the Branch Manager/ Departmental Head.
+
+If the staff member is reinstated Human Resource Development shall advise Card Centre to reinstate the card.
+
+Staff Leaving the Bank
+
+Dismissal
+
+Upon notification by Human Resources Department Card Centre shall;
+
+Stop the card
+
+Forward the file to Remedial Management Department for follow up and collection of the debt.
+
+Resignations
+
+Upon notification by Human Resources Department Card Centre shall; -
+
+Retain the Ex-staff card when they come for clearance and request for a proposal on settlement of the debt.
+
+Request the Ex-staff to apply afresh for another card which shall be processed in the same manner as in the case for a new application.
+
+Retirement
+
+Upon notification by Human Resources Department Card Centre shall; -
+
+Retain the Ex-staff card at the point of clearance and request for a proposal on settlement of the debt.
+
+Request the Ex-staff to apply afresh for another card which shall be processed in the same manner as in the case for a new application.
+
+Ex-staff enjoy a package of preferential rates apart from the dismissed staff members.
+
+Implications
+
+It is important that the required procedures for account opening are followed as stated above and as per the outlined process flow. If the correct procedures are not followed, then wrong reports may be generated by the system e.g. if some staff accounts are flagged as customer accounts then the system omits such account when reporting balances for staff accounts at any given time and give a wrong amount for staff accounts etc.
+
+STANDARDS OF SERVICE
+
+Interviews
+
+This shall be thorough to avoid opening of fraudulent accounts. Blacklist register shall be checked as per Blacklist procedures.
+
+The MIS data input section of the Account Opening Form shall be part of the customer interview and be filled during the interview process.
+
+Reference shall be made to Appendix I on Detection and Prevention of Account Opening Fraudulent Schemes
+
+Prohibited Accounts
+
+Where the applicant is known to be un-discharged bankrupt
+
+Where the account would appear likely to prove an embarrassment, onerous to hold or where it is proposed to operate the account with large number of signatories or by signatures in cursory or rudimentary form.
+
+Where the partner's/office bearers are in dissension or conflict
+
+Where it appears that the account is being opened for a single transaction or to clear a cheque that cannot be cashed.
+
+Where a business name, partnership, companies or societies that have not been registered as yet and therefore, the certificate of registration and by-laws are not available. This is because the body does not and may never legally exist and the bank therefore will be unable to obtain a valid discharge for the funds.
+
+Where a customer has been blacklisted in the Bank's Blacklist Register.
+
+Note: Any attempted suspicious transactions shall be reported as per procedures.
+
+Controls
+
+The Service Desk Section shall be under the control of an officer of Section Head grade or above.
+
+Cheque books not yet issued to customers must be under lock and key (see Section on Cheque Book Ordering).
+
+The account Opening forms must be stamped with the user stamp of the staff who opened the account.
+
+Stamped application forms must be Archived on EDMS.
+
+The savings cards and Co-op Cash Visa Electron cards must be kept under lock and key by the issuing staff when not being issued to customers. A Register shall be maintained for all cards held and issued.
+
+Any lost Savings card or Visa Electron card must be reported and request for a new one made. Where a lost Visa Electron card report has been made by the customer such an account shall be blocked in the Card Management system immediately the card is reported lost/stolen as any other person with the card may try to access the account through the counter. Payment to the affected customer shall be done over the counter ensuring that the account is the customers.
+
+Time
+
+Procedures for the opening of accounts must be completed, correctly and Customer created in FINACLE.
+
+Mandates must be Archived same day on EDMS.
+
+Authorizing Officer
+
+Account authorization is done at the Branch.
+
+BOS shall conduct a third eye check to verify all the details and documents attached.
+
+The authorizing officer must be Section Head grade or above.
+
+ACCOUNT OPENING PROCESS FLOW (BPMS)
+
+Responsibility
+
+The Branch is responsible for collecting instructions from customer, performing KYC against the provided documents and authorizing accurate data, while Back Office responsible for the overall data integrity.
+
+The transaction is considered complete once all the fields have been input in the system.
+
+Personal and Jumbo Junior Account Opening Process Flow on BPMS
+
+The process involves: -
+
+Logging in BPMS (Process Maker)
+
+The SDO shall log in to Process Maker on SharePoint. The link below can be used.
+
+https://svdcpmaker01/sysmicrocredit/en/neoclassic/login/login?u=%2Fsysmicrocredit%2Fen%2Fneoclassic%2Fcases%2Fmain on Chrome or Mozilla browser and log on using your windows username and password.
+
+Starting a case
+
+Select New Case
+
+Click on the Digital Account Opening Process or Marketed Account Opening Process (in case of marketed accounts)
+
+Click on Start Case
+
+A new case is initiated. Each new case will have a unique case number
+
+Customer Type Selection
+
+Select Personal from Account Type
+
+Creation of Party ID for Marketed Accounts
+
+Where the marketed accounts had pre-assigned CIF ID's, the SDO shall first reserve them on Finacle before proceeding with account opening process on BPMS.
+
+Applicant Identification Document Verification
+
+Capture the Identification Document Number as it appears on the document provided by the customer.
+
+Where a customer has provided the National ID, Alien ID, Passport or Service ID, the SDO shall select an appropriate document type from the Identification Type Menu
+
+The Input shall be done as follows:
+
+Under the Identification type
+
+Capture the following applicant's details on the table Applicant ID Verification
+
+Identification Type – Select National ID, Passport, Alien ID or Service ID from the dropdown
+
+Document Number – Capture the document number
+
+Press the button below to continue
+
+Document Expiry date
+
+Work permit Expiry date
+
+Visa Expiry date
+
+Once the details above are captured, the next screen will display the KYC results for the identification document provided
+
+Verification Results
+
+The search button will display the following 5 results in a single page:
+
+Finacle Blacklist
+
+IPRS Information
+
+KRA PIN Information
+
+Finacle existing accounts
+
+Party relationship
+
+Finacle Blacklist Results
+
+A blacklist check response is received.
+
+Yes, for blacklisted applicants, and No, where the applicant is not blacklisted.
+
+Where the blacklist results is Yes, the account opening process will be automatically terminated.
+
+Document source with be auto populated
+
+IPRS Information
+
+Where the details generated by IPRS match the details on the physical Identification document presented by the applicant, select Yes under Details Match.
+
+Where the details do not match, select No.
+
+Where some details are missing, select the option missing.
+
+Where some details are mismatched, select the option Mismatch.
+
+Except where the details match, amend the details on the highlighted table (below) and capture the variation on the Mismatched/Missing details field (Any amendment of IPRS results will go the Branch Manager or service manager for approval.
+
+Where the applicant is authentic, select the option Yes. Where the customer is not authentic, select the option No
+
+Where No is selected, capture comments, and click on Continue. The case will be closed where the customer is not authentic.
+
+KRA PIN information
+
+KRA PIN certificate attachment shall NOT be required. The below shall apply:
+
+Customers opening accounts where KRA PIN is automatically updated from KRA portal, will not be required to provide their KRA PIN number or Certificate.
+
+Where the details match the KRA document presented by the customer, select Yes on Details match field
+
+Where the Taxpayers Name and KRA PIN is different from that on the KRA document, select the option No, and capture the correct details while also indicating the reason.
+
+Customers opening accounts where KRA PIN is not automatically updated from KRA portal will be required to provide KRA PIN number. The provided PIN number shall be captured manually and validated on KRA PIN Checker Portal.
+
+An email approval from the Regional Managers is required for customers opening accounts without KRA PIN numbers. The email shall be attached on BPMS.
+
+Finacle Existing Accounts
+
+The verification search will also display the customers' existing accounts.
+
+Where a customer has an Existing client ID the customer ID and Customer Name will be displayed
+
+The SDO shall ensure that the customer's Name displayed is similar the names on the customers Identification document.
+
+Since BPMS fetches the customer record directly from Finacle, customer's CIF details shall be amended from Finacle using ERC menu following the existing process for enrichment.
+
+Where the customer is New, the system will automatically assign a customer ID while the Customer's Name will be missing.
+
+Select the displayed account ID to proceed
+
+Party Relationships
+
+The existing customer relationships will be displayed in the table below
+
+Select Next to move to the next screen i.e. capture of customers details
+
+After verification of the results from the IPRS, Blacklist, KRA and Finacle, the next step will be to Capture customer details.
+
+Note:
+
+Some of the details from the IPRS search, KRA search and Finacle search will be auto populated in the Customer Details Field.
+
+Capture of Customers Details
+
+Customer Details
+
+The details below will be auto populated on the Customer Details Field and are not editable.
+
+First name
+
+Middle name
+
+Last name
+
+Document number
+
+Date of birth
+
+KRA PIN Number
+
+Capture the following details on the Customers Details Field
+
+Gender – Select Male or Female
+
+Title (Salutation) – Select suitable option from the dropdown
+
+Nationality – Defaults to Kenya. Select country where need be
+
+Marital status – Select one option: Single Married, Widowed or divorced
+
+Nationality
+
+Country of residence – Defaults to Kenya. Select country where need be
+
+City of birth- Defaults to Kenya. Select country where need be
+
+Tax identification number – Where Tax country selected is not Kenya, capture the tax identification number
+
+Tax Indicator- This is a drop down that defaults to 'Liable for Tax'. This flag indicates that this customer is a taxpayer. The user can modify this selection by selecting 'Not Liable for Tax' where the customer is tax exempt (The SDO shall attach a tax exemption certificate)
+
+Party Address Details
+
+Capture the following details on the Party Address Section
+
+Address Type- select either Postal Address or office Address
+
+Address Line – The address shall be captured without a pre-fix P.O
+
+Postal Town – Select from a drop-down
+
+Postal Code – 5-digit postal code- Auto-populated based on the postal town captured above
+
+County- Auto-populated based on the postal town captured
+
+Country- Defaulted to Kenya. Select where need be
+
+Physical Address
+
+Capture the following details on the Physical Address Section
+
+Physical Address- Capture specific location of customer
+
+Town- Type to choose from available towns
+
+Postal Code -5-digit postal code- Auto-populated based on the postal town captured above
+
+County- Auto-populated based on the postal town captured above
+
+Country- Auto-populated based on the postal town
+
+Residential Status
+
+Select the residential status from the drop down.
+
+Contacts Details
+
+The SDO shall capture the following details:
+
+Select Preferred Channel
+
+Select Channel
+
+Key In Phone No
+
+Country
+
+Email Address
+
+Contact Person Details
+
+The SDO shall capture the fields below on the Contact Person Details:
+
+First Name
+
+Middle Name
+
+Last Name
+
+Phone number
+
+Country
+
+Email address
+
+Contact Preference
+
+The SDO shall capture contact preference details:
+
+Default Channel
+
+Receive Marketing Messages
+
+Preferred Communication Channel
+
+Other Co-op Accounts
+
+Where the applicant has other accounts at Co-op Bank, the details below will be auto populated on the table: Where the applicant has no account with Co-op, these details will be missing.
+
+Account Name
+
+Account Number
+
+Branch
+
+Branch Name
+
+Bank Employee Details
+
+For staff related account, SDO shall select the Option and key in the related staff ID
+
+Employment Details
+
+SDO Shall Fill in the following mandatory fields.
+
+Employment Status– Employed, Self-employed,
+
+Student or Others
+
+Occupation - Drop down selection
+
+Employer- Drop down Selection. Select Others
+
+where the preferred
+
+Employer's Phone
+
+Employer address
+
+Annual income
+
+Designation
+
+Employment Type – Drop down selection
+
+Business name
+
+A/c Business Purpose
+
+Constitution
+
+Industry Type
+
+Name of University/College
+
+Qualification
+
+Admission Number
+
+Expected Completion Date
+
+Est. Monthly Deposits-Drop down selection
+
+Note
+
+Where the student admission number is missing, capture the student ID Number in the Student admission field.
+
+KYC Details
+
+The SDO shall capture the fields below mandatory Fields
+
+Main Source- Key in
+
+Income Nature- Drop down selection
+
+Income Range- Drop down selection
+
+Credit Score - Drop down selection
+
+Insider to bank- Drop down selection
+
+Insider Role – required if insider to bank is selected as "YES"
+
+Product Selection and AML Details
+
+The SDO shall Select the appropriate product (Scheme Code) and Product Description (Scheme Name)
+
+Account type shall be displayed depending on the product selected.
+
+Currency will default to KES which can be amended to other currencies
+
+The SDO shall Capture the account to be opened and the AML details as indicated below
+
+Product Selection
+
+Product ID
+
+Currency
+
+Product
+
+Purpose of Account
+
+Pep Details
+
+Sector
+
+Sub-sector
+
+Corp Flag
+
+Customer Type
+
+AML Risk Rating – Auto-calculated
+
+Bank Taxonomy
+
+SDO shall select Sector code with related Sub- sector code
+
+CBK Sector
+
+SDO shall select Sector code with related Sub- sector code
+
+AML Risk Calculation
+
+To enhance the transactions monitoring platform, the Bank has adopted an automated AML Risk Level Customer Categorization process. This measure supports the continuous monitoring of the business relationship including transaction monitoring.
+
+The risk levels are:
+
+High Risk
+
+Medium Risk and
+
+Low Risk
+
+It is the responsibility of the SDO Officer to ensure that the correct customer category has been selected in the system
+
+The risk level is determined by the customer category selection.
+
+The 7 parameters used to calculate the risk rating include:
+
+Sector
+
+Customer Type
+
+Turnovers
+
+Corp-Flag
+
+Country of Residence
+
+Nationality
+
+Products
+
+All low and medium risk accounts shall be routed direct to BOS.
+
+All High-Risk accounts shall be routed for Branch/Service Manager for Approval. The Branch/Service Manager shall review all the details captured before making their decision.
+
+Account Relationship Details
+
+ARO code – Capture the ARO code
+
+DSO code – Capture the DSO code
+
+ARO name
+
+DSO name
+
+Fatca Details
+
+SDO shall select the Fatca Status. Where the account applicant is a US citizen/Resident, the mandatory fields shall be selected and W9/W8 form attached.
+
+Cross Selling
+
+My payments
+
+Select Debit Card or Cheque book by checking from the list below:
+
+Card Type- Drop down selection
+
+Cheque Type- Drop down selection
+
+Input the number of books required
+
+Number of leaves- Drop down selection
+
+Statement frequency- Drop down selection
+
+Statement Medium- Drop down selection
+
+Mco-op Cash and Online Banking
+
+The mobile number is pre-populated from the initial captured details, and it is not editable. The account number assigned, will also be auto populated on the output form.
+
+Where the customer is not interested in Mco-op cash and online banking, the SDO shall capture the reason.
+
+Alerts Subscription
+
+For customer alerts subscription, where Enable Alerts Selected is "YES" type of alerts debit/ credit/ or both shall be selected.
+
+Standing Order
+
+Select Standing Order for Co-op Accounts Only by checking from the list below and capture the following details:
+
+Account Number- Auto-populated
+
+Frequency- Select from a drop-down menu
+
+Beneficiary Name
+
+Beneficiary Account Number
+
+Amount
+
+Amount in words- Auto-populated
+
+Pay Type- Select from a drop-down Menu
+
+Effective date- select the date
+
+For standing order creation, the SDO shall scan the full electronic mandate and forward to COU for standing order creation.
+
+Capture of Customers Photo, ID Document Front and Back
+
+Walk In Customers
+
+The customers Photo, ID front and ID back shall be captured using a Webcam.
+
+Where either the customer Photo, ID front and ID back is skipped, the process will generate the error above.
+
+Press to capture the customer's signature using the signature pad.
+
+Marketed Accounts
+
+For marketed accounts, the SDO shall capture the customers Photo, ID front and ID back and Signature using a Webcam. The captured images shall be very clear to avoid RTS.
+
+The SDO may take the ID front and Back ID images on the printed out copy of the ID. Where the copy of the ID is not clear, the SDO may upload the same.
+
+Select the Signature Type
+
+The SDO shall select the signature type from the two options below for Walk In customers
+
+Signature (To be captured by the applicant on the signature pad device)
+
+Thumbprint (To be captured/ impressed on the generated physical mandate form for the applicant using vernacular signature)
+
+Capture of Customers Signature
+
+The SDO shall capture customer's signature using the signature pad. The customer shall sign twice. The two-signature sample are for comparison purposes.
+
+Where the signature differs, one can press on to re-capture the signature.
+
+Select any of the signed signature after the customer has approved.
+
+Note: The photos and the signatures will not need to be cropped.
+
+It is at this stage that High Risk Rated Accounts and Amended IPRS details shall be automatically routed to Branch/Service Manager Approval.
+
+The Branch/Service Manager will view all the details captured before making their decision.
+
+Approve – Route the case back to SDO for account opening to be completed
+
+Defer – Capture comments and route to the SDO
+
+Decline – Capture comments and terminate the case
+
+After the Branch Reviewer has approved the account, the SDO will receive an email notification. The case will also be available on the SDO's inbox for completion of account opening process.
+
+For a deferred case, the SDO will receive the case on their inbox with a deferral reason clearly indicated.
+
+Press Next Step create the account.
+
+Once the account number has been generated, the product summary details below will be displayed on the View Account Details
+
+View Account Details
+
+The following account details can be viewed
+
+Account Number
+
+Account Name
+
+Product ID
+
+Account Currency
+
+Product
+
+Purpose of account
+
+Press NEXT to generate an output document
+
+Opening of Multiple Accounts
+
+To open more than one account, the SDO shall select among the 3 options as indicated below. The default option on the process will be No.
+
+No
+
+Yes- with similar product (version 01, 02 etc. of an account)
+
+Yes- with New product (e, g hekima and salary)
+
+Where the SDO has selected the Yes option, they shall be required to indicate the number of Extra accounts they would want to create.
+
+The SDO shall be presented with the dialogue box below according to the number of times they wish to create an account. The details on the dialogue box will be:
+
+Product ID
+
+Product
+
+Purpose of Accounts
+
+Account currency
+
+The subsequent accounts will take on the details of the first account opened. In cases where the DSO of the second account is to be changed, the SDO shall start a new case and capture the new DSO and or ARO code.
+
+View additional accounts opened.
+
+Once all the accounts above are opened, the SDO shall view the accounts in one page before downloading the electronic form.
+
+Generating Documents (e-form)
+
+The SDO shall generate the output document by clicking on the.
+
+Afterwards, print the form for the customer to confirm the details and append their signature on the terms and conditions section.
+
+Signing of Terms and Conditions
+
+Once the customer signs on the Terms and Condition, select Yes and click Submit. This will take you to the next step of attaching KYC document e.g. Affidavit or license
+
+Note:
+
+The printed mandate that has been confirmed and signed by the customer shall not be forwarded to BOS. The mandate shall be sent to documentation through the Physical Mandate Dispatch Tracker Process on BPMS.
+
+For marketed accounts, the staff who marketed the account shall perform the following checks:
+
+Confirm validity of KYC documents.
+
+Certify KYC documents as true copy of the original.
+
+For marketed accounts, the SDO opening the account on BPMS shall ensure completeness of the requirements as per existing policy.
+
+Where the customer has not signed the T&C, select No and indicate your comment. This will terminate the account opening process.
+
+Upload of Documents
+
+Saving of Documents
+
+Save the documents that you intend to upload on a location in your computer. e.g., an affidavit saved on desktop as shown below.
+
+Uploading of Documents
+
+Choose the document you intend to upload from the appropriate Document Name.
+
+Click on upload documents button.
+
+RTS Cases for Wrong Attachment
+
+The Bos verifier will RTS cases where document (s) attached do not match the document name as shown below:
+
+Amendment Process
+
+To amend, choose the correct file. This will automatically overwrite the previous file, and then click Upload documents button to upload.
+
+Uploading of the KYC documents is done on this form
+
+Upload each document on the appropriate field as labeled.
+
+Select the option I certify that is a true copy of the original label to confirm that the documents provided are true copies of the original.
+
+Click on CONTINUE button
+
+Forwarding to BOS for Verification and Quality Assurance
+
+Select continue for the workflow will move to BOS
+
+The customer will receive an SMS and email notification with the following details:
+
+Account Number
+
+Account Name
+
+Co-op Online link for self- registration
+
+Before Submitting a Case to BOS, The SDO shall ensure that the documents meet all the requirements.
+
+Note
+
+For any amendment on the existing customer's details, the SDO shall be required to update the customers' static details on Finacle before proceeding with the account opening process on BPMS.
+
+SDO shall not be required to update the mandate tracker for accounts opened on BPMS since they are electronically sent to BOS in real time.
+
+Deferred Case
+
+When a BOS verifier defers a case, the SDO (Initiator) will receive an email notification indicating the reason for deferral.
+
+Deferred cases will be routed to SDOs in an unassigned queue, where they will be required to claim a case before amendment.
+
+The SDO shall claim the case on the unassigned queue and amend the correction as directed after which they forward the case by clicking on Next Button until the case ends up at BOS queue.
+
+All cases shall be forwarded back to BOS on the same day the case is differed.
+
+Joint, Sole Proprietorship and Company Accounts Opening Process
+
+This process shall be used to create the Customer Party and create the account at the Branch.
+
+Process Flow
+
+The Checker (at the Branch) is not required to sign the account opening forms but shall give guidance to SDO (Maker) where need be.
+
+The SDO is responsible for carrying out the account opening process end to end as detailed below:
+
+Alterations on the Account Opening Mandate
+
+Alterations on the Account Opening Mandate must be countersigned. The Alterations are categorised into two:
+
+Alterations for details where verification can be done against attached documents
+
+This will include:
+
+Identification Number
+
+Date of incorporation/Registration
+
+Account Name
+
+Gender
+
+Certificate of Incorporation
+
+KRA PIN
+
+Date of Birth
+
+Alterations on details where there are No Documents attached
+
+This will include:
+
+Marital Status
+
+Mobile Number
+
+Email Address
+
+Specimen Signature
+
+Signature on the Terms & Conditions section
+
+Postal Address
+
+Postal Code
+
+Town
+
+Confirmation of the Alteration
+
+Alterations shall be handled as follows:
+
+Alterations for details where verification can be done against attached documents
+
+The Branch shall authorize the amendment by signing and appending the per-pro stamp against the alteration.
+
+Alterations for details where there are No Documents attached
+
+The Alterations for details where there are no documents attached shall be effected as indicated below:
+
+Mobile Number - Customer to countersign
+
+Postal Address - Customer to countersign
+
+Postal Code - Branch to authorize
+
+Town - Branch to authorize
+
+Marital Status- Branch to authorize
+
+Specimen Signature – Customer shall fill in another form
+
+Signature on the Terms & Conditions Sections - if it does not tally with the specimen signature, customer to counter sign and branch to authorize for the counter signing.
+
+Note:
+
+Branches append PER PRO stamp on the mandate for all the alterations not countersigned by the customer.
+
+White out shall NOT be used on the account opening mandates.
+
+Blacklist Enquiry
+
+During the Customer Onboarding process in Finacle, several compliance checks are put in place:
+
+Perform Dedup
+
+Perform Negative List
+
+Perform blacklist
+
+IPRS Checks
+
+The Dedup check establishes whether there are matching records for the identification document.
+
+The Negative list Check displays results if the customer is listed negatively by the bank against the bank internal data base. i.e., has nonperforming loan or the customer is engaged in fraudulent activities.
+
+The Blacklist Check is against external database, i.e., if the customer is a terrorist
+
+IPRS checks on the identification on the Integrated Population registration system maintained by the Government.
+
+ACCOUNT OPENING PROCESS FLOW (FINACLE)
+
+Responsibility
+
+The Branch maker is responsible for collecting accurate data while Branch checker is the authoriser and responsible for the overall data integrity.
+
+The Service desk officer is responsible for carrying out the account opening process end to end as detailed below:
+
+Note: The transaction is considered complete once all the fields have been input in the system and verified.
+
+Retail CIF Process Flow
+
+The process below will be used to open retail walk-in Customer & Marketed personal accounts
+
+Note the Senior SDO is the Checker.
+
+Creating a Retail Customer Information File (CIF)
+
+Maker shall log into Finacle with own credentials then:
+
+Select CRM solution On the Solution Tab
+
+On the Predictive Search Invoke CERC Menu
+
+The Create Retail CIF screen appears and displays the Search for Matching Record Performed, Reason which are populated with default entries and CIF Subtype Category.
+
+All the fields highlighted in red are mandatory.
+
+Selecting Customer Type
+
+CIF Sub type Options are:
+
+Customer - Person ready to establish a business relationship with the bank.
+
+Prospect - A person who wants a relationship with the bank in the future
+
+Contact - A representative or Agent of an Account holder
+
+Non -Customer-This is a beneficiary of the customer e.g. suppliers or customers of the main customer.
+
+The default subtype is Customer.
+
+Click Go and proceed to capture customer details
+
+Input First and last name
+
+From the Searcher, Select the Identification document code for example National ID maintained as NATID.
+
+Input Identification document number of the customer as below.
+
+Performing Dedup, Negative List, blacklist & IPRS Checks
+
+Click on Perform Dedup - The Dedup check establishes whether there are matching records for the identification document.
+
+The Dedup Check displays a list of all the matching records with uneditable fields nominated by the bank for duplicate checks.
+
+The fields displayed are:
+
+CIF ID
+
+First name
+
+Surname
+
+Document Code
+
+Document No.
+
+In the event, the customer has another CIF ID, the system will prompt to Enrich
+
+Click Enrich CIF and proceed.
+
+In the event, the checklist results show no CIFs exist, the screen below will be displayed and perform negative list check is activated
+
+Click on Perform Negative list.
+
+In the event, the customer is negatively listed the below results will be displayed.
+
+If the customer is not negative listed, the screen below will be displayed and PERFORM BLACKLIST button is activated
+
+Click on Perform Blacklist. The screen below will be displayed for non-blacklisted results.
+
+If the customer is blacklisted the records will be displayed with no option to continue.
+
+Click on Perform IPRS. The Party Check List screen is displayed.
+
+Validate the customer details from IPRS in comparison with the identification document presented
+
+Click on continue button to the basic details page
+
+Capturing Basic Details
+
+Based on the IPRS results, the First Name, Middle Name, Last Name, Short Name, Full name, and Date of Birth will auto-populate.
+
+Input the Salutation & Gender.
+
+Verify all mandatory details as displayed.
+
+Capturing Identification Document for a Retail CIF
+
+Identification Document Summary
+
+This is a multi-record list in which different documents of the customer can be added. The main document shall be marked as preferred denoted with a Y and the rest shall be marked as N.
+
+The documents can be linked that are uploaded and maintained in the DMS (Document Management System)
+
+To add a record:
+
+Select the Mode as ADD (+).
+
+Populate the document type as Identification Proof for Retail (IDPRF) and the Document code as maintained.
+
+Select the Document code from searcher as shown below
+
+Select the Preferred document as Y. This will auto-populate the details on Document No.
+
+Populate Place of issue and Issue date details for the presented identification document.
+
+Click the Add (+) button on the Attachments List tab. The screen below will be displayed
+
+There are three modes of adding an Identification record:
+
+Add-Used for scanned documents in PDF or JPEG formats.
+
+Link-Used when customer has an existing CIF ID.
+
+Capture-Used when capturing the document with a webcam.
+
+Adding a Saved Document using the Add Mode
+
+Browse new document from the computer
+
+Click on upload
+
+Click on Save as displayed below.
+
+Adding a Saved Document Using Link Mode
+
+This is used attach a document from an existing CIF e.g. when creating a minor CIF one can link a document of the parent or guardian.
+
+Click on Document Title
+
+Select Entity Type as CIF
+
+Input the source CIF on CIF ID
+
+Click on search
+
+Select the record
+
+Click on save
+
+Adding Document using Capture Mode
+
+Click on Capture Mode
+
+Click on capture
+
+Take snapshot of the document
+
+Click on close window
+
+Click on Save
+
+After successfully attaching the document, the Save and Add New button is used in the event of adding another document.
+
+The preference details for a secondary document shall have the preferred Field as N.
+
+Click Save and Preview tab when uploading only one document.
+
+The screen below will be displayed.
+
+Adding of Customers Address
+
+Address Summary is a multi-record list in which different addresses of the customer can be added.
+
+On the Address summary list click on ADD+
+
+Select from the drop-down menu the list of addresses
+
+Click for example mailing and postal address.
+
+The free text button will be activated.
+
+On selection of Postal code, the city, Town, County and Country will be populated. Input the address line 1 manually as displayed.
+
+Click on Save and ADD to add a new record
+
+Adding Residence/Permanent Address (Physical Address)
+
+Select Address Format as Structure
+
+Input the House no, Street no, Street Name manually
+
+Select postal Code. On selection of postal code, city/town county and country will be populated
+
+Click Save and Preview button.
+
+Capturing of Diaspora Accounts Address
+
+For Address type:
+
+Select NRERelative
+
+Select Structured on address format
+
+To input House No./Building No, Street No, Street Name, City/Town-Diaspora, Postal Code
+
+Select County as Diaspora (code 48) as shown below:
+
+Click on Save and Preview to display the address summary as below.
+
+Capturing Contact Details
+
+From the drop-down menu:
+
+Select the Preferred Phone Type and Preferred Email as shown below:
+
+Click on add. (+)
+
+Select the country from the searcher to populate the country code
+
+Capture the customer's Phone number
+
+Click on Save and ADD New to input the email details as below;
+
+Click on Save and ADD New to input the email address
+
+Select Email from Channel
+
+Input email address on Email ID
+
+Click on the Save and Preview button
+
+Click on Continue button
+
+Capturing Other Details
+
+This tab contains miscellaneous information Marital Status, Residence Status, employment details, primary SOL ID, primary RM ID, Country of Residence and Town of Birth.
+
+Select the marital status from the drop down
+
+Select the Employment Status and the Occupation from the drop down.
+
+If the customer is a Co-operative bank employee, select YES on Bank Employee field and select the PF number on Bank Employee ID
+
+Capturing the Residential Details
+
+Select the Nationality and the Country of Citizenship from the searchers. The non-resident Indicator shall be N for resident and Y for a non-resident.
+
+When the Non-Resident Indicator is Yes, input the date when the customer became a resident on Turned Non Resident On field, input Country of Citizenship and Country of Residence.
+
+Capturing Miscellaneous Details
+
+Input username of a relationship manager who has an ARO code on Primary Relationship Manage ID
+
+Select Segment from the searcher.
+
+Note: The ARO code will automatically populate once the username of the relationship manager in input
+
+Capturing Currency Details
+
+This section entails a multi-record list of currencies in which the Bank can open accounts for the customer. The Base Currency Details will default to KES in the list.
+
+Click the ADD (+) button to input additional currency.
+
+Search the currency from the CCY searcher
+
+Click Save and Preview to continue.
+
+To add an additional currency, Click on Save and Add New.
+
+Generating KRA Details:
+
+Click on the KRA button.
+
+If Kra pin is generated successfully, the KRA pin number will be displayed. If the Kra pin generation is not successful in the case of Kra systems being down, there will be an error message generated and the KRA pin will be manually input in Additional Details.
+
+Click Continue. The following fields will activate.
+
+Save and Enrich – Use this option to save CIF as a draft while proceeding to specify remaining details in the CIF. After enriching the CIF, the customer can submit the CIF for approval.
+
+Save - Use this option to save CIF as a draft. The details are not updated to the database. Since the CIF record is saved, it remains in the user's self-tray. The CIF can be accessed only by the maker through menu MSCDS (Maintain Saved Cif Details) or the enrichment menus ECC(Enrich Corporate CIF) in case of a corporate CIF and ERC(Enrich Retail CIF ) in case of a retail CIF.
+
+Submit - Use this option to save CIF details into the database, the selected process is used for CIF approval and the status of the CIF is changed to 'Under Verification' status.
+
+Cancel- Deletes all the details input during CIF creation.
+
+Click on the Save and Enrich.
+
+Note that a CIF ID is generated.
+
+Click PROCEED TO ENRICH button
+
+CIF ENRICHMENT (FINACLE)
+
+Additional Details
+
+Click on Additional Details.
+
+This section is used to record the academic, career profile, financial and other demographic details of the new entity. The subsections within Additional Details are:
+
+Additional Details
+
+Qualification Details
+
+Employment Details
+
+Reporting and References Details
+
+Background Check Details
+
+Details of Business Entities
+
+Relationship Details with other Banks
+
+Group and Household Details
+
+Preferences in Bank services
+
+Customer Mapping Details
+
+Previous Name Details
+
+This is a multi-record list containing details of all past official names of the customer. Any changes shall be accompanied by a valid certification.
+
+The system allows a maximum of three different records to the list.
+
+Click Add button to add a record
+
+Enter Salutation, First Name, Middle and Last Name
+
+Click Save and Preview to save the record
+
+Click on Continue
+
+Qualifications Details.
+
+Qualification Details
+
+Qualification summary is a multi-record list containing details of all the educational qualifications as declared by a customer. It is a mandatory field if the customer is a student.
+
+Click on Add New Record on Qualification Summary
+
+Select the highest of the customers on Qualification drop down
+
+Input the Institute/University
+
+Input Student Registration No. If the student has not yet been issued with a registration number.
+
+Select Enrolment status
+
+Course Start Date
+
+Course End Date
+
+Certification Date
+
+Click on Save and Preview
+
+Click on Continue
+
+Employment Details.
+
+Employment details
+
+This option is used to record the employment details of the CIF entity such as designation, employment type, nature of income, payment mode and employment ID.This field is mandatory if the CIF entity is employed
+
+Click Add record on Employment Details Summary
+
+Select Employment Type
+
+Select Nature of Income
+
+Select Industry Type>Occupation>Employee ID.
+
+If customer does not have an employment Id, input the identification number.
+
+Select Designation>Employer Name>Employer Phone Number
+
+Click save and Preview
+
+Click on Continue> Reporting and References
+
+Reporting and References Details
+
+This section is used to record details used for reporting purposes.
+
+Select Sector>Sub sector>CBK Sector>CBK Sub sector>
+
+Select affiliate to Bank. Affiliated is the case of subsidiaries to the bank such as Kingdom Securities Ltd, Jamii Bora Bank etc.
+
+Select Insider to bank. Insider is in the case of Director, CEO, Significant Shareholder.
+
+If the customer is an insider, the insider role must be selected.
+
+Click on Continue> Bank Defined Details
+
+bank defined details
+
+This is where details of the entity's background are recorded. The Bank may require these details for many purposes like marketing, financial analysis and KYC compliance.
+
+Input Main Source of Funds>Tax ID if the KRA pin check was not successful>Tax Country
+
+Foreign Account Tax Details/FATCA
+
+This section is used to record tax details for US locale only.
+
+Fatca identification, requirement and process is covered in details on Fatca Identification Requirements and Process
+
+Foreign A/c Tax reporting required field will be applicable for US citizen otherwise the default status will be N
+
+For US citizen or US resident, Select Yes on the Foreign A/c Tax reporting
+
+Click the + button on Foreign Tax Reporting Details
+
+Select the foreign tax reporting country
+
+Select Foreign Tax Reporting status
+
+Input Foreign Tax Identification Number
+
+Select the Last Foreign Tax Reporting Review Date
+
+Select the Next Foreign tax Reporting Review date
+
+Click on Save
+
+Click on Continue> Details of Business entities.
+
+Details of Business Entities
+
+This section involves specifying details of businesses that the entity is involved in. If the entity is self-employed, the name of the business shall be specified with other relevant details such as Constitution or Business purpose.
+
+Select Constitution
+
+Select A/C used for business purpose as Y (YES)
+
+Input the Business Name>Input Business Start Date
+
+Input Business Operation Description
+
+Input Major Suppliers
+
+Select Industry List.
+
+Click on Continue>Relationship Details with other banks.
+
+Relationship Details with other banks
+
+Banking specifics of an entity are recorded here. Multiple records on any existing bank accounts and credit card details.
+
+Click on the + button on Other bank details
+
+Select Relationship Type>Input Bank/Branch Name>Click on Save and Preview
+
+Click on the + button on Credit card details
+
+Select Card Category>Bank Code>Card Type>Credit Card No
+
+Click on Save and Preview.
+
+Click on Continue> Group and Household Details
+
+Group and Household Details
+
+This is a multi-record list that is used to link the entity to existing groups or households.
+
+If the entity is operating as a partnership, limited company then the authorized signatory, corporate representative is linked to the parent group while if the entity is retail it is linked to household ID. The entity is therefore shown as a related party for the linked group.
+
+Click on the + button on Group and Household Details List
+
+Select the Linkage type as Household
+
+Select Household name
+
+Click on Save
+
+Click on Continue> Customer Mapping Details
+
+Customer Mapping Details
+
+Customer mapping is used to support backend systems. It is used to create the mapping information of the CIF on CRM application to have a wholistic view of the entity's relationship. It also supports the purpose of uploading and downloading of data between backend systems and CRM system.
+
+This section is not a mandatory field:
+
+Click Continue to move to the next section
+
+Click on Continue> Next of Kin Details.
+
+Next of kin Details
+
+This section is used to capture the details of next of kin and is not mandatory
+
+For further guidelines on next of kin details, refer to section on 'Customer Engagement Forms'-Critical Data Elements-removal of requirement for next of kin details
+
+Input Next of Kin Name>Next of Kin Identification No>Next of Kin Phone>Next of Kin Postal/Mailing Address>Next of Kin Email Address>Relationship With Next of Kin
+
+Click on Save and Validate.
+
+Additional details shall be successfully saved and validated.
+
+Click Next section. Bank Defined Details is the next section to enrich.
+
+Bank Defined Details
+
+Pricing Details
+
+The different products offered by the bank that the entity chooses are recorded here. The External System Pricing shall always be NO.
+
+Click on Continue to proceed to the next section, Business Analytics.
+
+Business Analytics
+
+Details of any business analysis done on the customer's profile are displayed here. This analysis is generally done by business intelligence tools deployed by the bank.
+
+Click on Continue >Risk Rating and Score Details
+
+Risk Rating and Score Details
+
+Risk rating profile for the entity is created here. The risk profile helps the bank on making timely decisions on risk analysis and prevention, PEP management, prevent fraud incidences or make decisions on the different services or offerings an entity can take.
+
+Select Customer Rating
+
+Select PEP/PEP Associates as N for an entity that is not a Pep or a Pep associate
+
+Click on Continue
+
+Select PEP/PEP Associates as Y for an entity that is a Pep or a Pep associate
+
+Input the PEP Name
+
+Select the PEP Role
+
+Click on Continue> Relationship Manager Details
+
+Relationship Manager Details
+
+The relationship managers managing the entity's portfolio are recorded here.
+
+The Primary Relationship Manager defaults to the one input on Other Details. Relationship Created By defaults to the user creating the CIF.
+
+Click on Continue>Access control Details
+
+Access Control Details
+
+This section is used to feed Finacle CRM on which users shall be able to access the entity's CIF. Only the users in the access control can access the entity's CIF. Access Control has the following attributes.
+
+Access owner Group-This is Business group. The system defaults to General Banking
+
+Access Owner Segment-This is the Access Owner and Access Segment, and it defaults to Preferential Banking
+
+Click on Continue> Official use.
+
+Details for Official Use
+
+Details on occurrence of certain event are recorded here.
+
+Select INDIVIDUAL on Customer Type
+
+Select ACTIVE Status
+
+Select Segment
+
+Select Secondary segment
+
+Select Classification
+
+Click on Continue> Details for Core banking
+
+Details for Core Banking
+
+Details related to funds transfer through SWIFT, treasury services, bankruptcy application and trade finance services are recorded here.
+
+Click Continue >Disaster Relief Details
+
+Disaster Relief Details
+
+Details related to disaster relief program in which the customer maybe involved in are recorded here.
+
+This is not a mandatory section.
+
+Click on Save and Validate.
+
+Bank Defined details shall be successfully saved and validated.
+
+Click Next section. Preference Details is the next section to enrich.
+
+Preference Details
+
+This section records customer's information on their preferences on social profile, bank services, product offerings and the mode of communication with the bank.
+
+Personal Preferences
+
+This section records the selected traits of the new entity required in enhancing the customer's experience with the bank.
+
+Click on Continue>Preferences in Bank Services
+
+Preferences in Bank Services
+
+Customer's banking preferences like base currency, enable alerts and E-banking an alert management are recorded here.
+
+Click on Continue >Product preferences
+
+Product Preferences
+
+The range of bank products chosen by the customer are recorded here.
+
+Click Continue> Contact Preferences
+
+Contact Preferences
+
+This is a multi-record list of how the customer prefers to be contacted by the bank for marketing purposes.
+
+Click on channel for communication searcher
+
+Click on select
+
+Click OK and Input the Contact Person Name, Phone number and Email
+
+Select Yes (Y) on Contact for Marketing Purpose for customers who want to be contacted
+
+Click on + button on contact preferences Summary List.
+
+Select the channel>Preferred as Y
+
+Click on Save And Add New to add another channel. When adding another channel, the preferred field will be N.
+
+Click on Save and Preview once done adding the required channel/channels.
+
+Click on Save and Validate
+
+Click on Next Section>Financial Details
+
+Financial Details
+
+Details related to the entity's assets, income and expenditure and the charge details of the entity are recorded here.
+
+Asset and Charge Details
+
+Use this option to specify information about all assets owned by the entity. In addition, this sub-section helps to collect information on any charge, encumbrances, hypothecation or mortgage existing over an asset.
+
+Click on Continue
+
+Income and Expenditure Details
+
+This option is used to include details on income generated from different sources and the expenses incurred for various purposes.
+
+Select Income Range (monthly income range)
+
+Click on Save and Validate
+
+Click on Next Section>Relationship Details
+
+RELATIONSHIP Details
+
+Relation of the entity with other entities is captured on this section. This section has two important attributes.
+
+Social and Banking relationship List
+
+This list displays the relationship under the categories Banking and Social. Joint Holder's CIF, Parent or Guardian Details for Minor Accounts, will also appear as a relationship on Social and Banking Relationship List.
+
+Click on + button
+
+Input Relationship category
+
+Input Relationship Type
+
+Click on Save and Add New to add a new record
+
+Click on Save and Preview after adding a record/records
+
+Corporate Relationship List
+
+This list displays the details of Corporates to which the selected CIF is related to.
+
+Click on Save and Validate, to display the below screen
+
+Click on View Summary
+
+Confirm all the fields are validated.
+
+Click on Submit to submit the CIF for approval
+
+Verifying Retail Customer INFORMATION File (CIF)
+
+Invoke RCCAT Menu> Select Retail CIF Type
+
+Select Operation Approve the drop-down menu
+
+The Entity Type defaults to Customer. Change to Contact, Non Customer or Prospect depending on the CIF subtype created.
+
+Click on Search.
+
+All the Retail CIFs for the SOL awaiting approval will be displayed as shown below.
+
+The tray will contain the following columns.
+
+CIF ID
+
+CIF SOL ID
+
+Customer Name
+
+CIF Sub Type
+
+Availability Reason- Created (new CIF),
+
+Edited(enriched CIF),
+
+Start Date,
+
+Maker ID-Assigned To-The approver user assigned to verify,
+
+If blank then all the assigned approvers at the branch can verify.
+
+Action and Release-Used when the approver wants to free up the CIF to be worked on by another user.
+
+Click on Approve on Action column for the desired CIF. The below screen will be displayed.
+
+Click on View Audit Trail
+
+Click on + button to view more details
+
+Click on close after viewing
+
+Click on View CIF details >defaults to menu IERC Inquire on Retail CIF
+
+Click on all the tabs to view
+
+Click cancel button
+
+Select on Decision from the drop down as Approve, Close, Rework.
+
+Approve
+
+If the checker is satisfied with all the details viewed, they can approve the created CIF.
+
+Select Approve on Decision
+
+Input Remarks
+
+Click on Submit button
+
+The created retail CIF is approved successfully.
+
+Rework
+
+When the checker has viewed all the details and is not satisfied with the data captured, they shall select this option to return to the maker for amendment.
+
+Select Rework on Decision
+
+Input Remarks-Reason for return.
+
+Click on Submit
+
+Close
+
+This option is used to delete the CIF from existence.
+
+Select Close on Decision
+
+Input Remarks-Reason for deleting
+
+Account Opening Individual Retail customer
+
+The table below illustrates the account Opening process in Core (Note: Senior SDO is the Checker).
+
+Introduction
+
+Accounts in Finacle are classified as either SBA (Savings Bank Account) or CAA (Current Account).
+
+The scheme codes under SBA are:
+
+The scheme codes under CAA are:
+
+Account Opening Menus
+
+Service Desk Officer (SDO) shall invoke account opening menus as follows:
+
+Savings Account opening – Open Savings Account (OSA)
+
+Current Accounts opening- Open Current Account (OCA)
+
+Opening a Retail Account
+
+SDO shall invoke account opening Menu as per (Ref 16.2) and input a Valid enriched CIF ID on the CIF ID field.
+
+Select the scheme code from the searcher
+
+Select the currency. It defaults to KES and can be amended
+
+Click Go button
+
+Select the following fields appropriately
+
+Statement frequency,
+
+Dispatch Mode
+
+Alert Registration Required * if yes select alert type (Credit , Debit or Both)
+
+Premium Banking A/c for executive banking services
+
+Channel Registration (Omni Retail, Mobile Banking or Both)
+
+Click On Continue Button> Additional Details
+
+Additional Details
+
+Interest Details page (Not mandatory)
+
+This field is default, populated with the value specified at scheme level. Specifies information (all interest and tax related parameters information) in the Interest Details.
+
+Pay Interest - This field indicates if interest must be paid to the account. The valid values are: Yes or No.
+
+Collect Interest - This field indicates if interest must be collected from the account. The valid values are: Yes or No.
+
+Credit Interest % min. /max. - This field indicates the minimum and maximum interest percent payable to the account.
+
+Allow Negative Credit Interest field would determine whether negative interest will be applied for account or not. The default percolation would happen from scheme level. If Allow Negative Credit Interest is yes at the scheme level, then P&L Placeholder and Negative Payable Placeholder exist at the scheme level.
+
+If "Allow Negative Credit Interest" indicator is Yes at scheme level and changed to No at A/c. level or vice versa, Default parameter overridden exception is shown to user.
+
+Debit Interest % min. / max. - This field indicates the minimum and maximum interest percent to be collected from the account.
+
+Customer Preferential Interest (Cr) - This field indicates the preferential interest (positive percent) set at the customer level which is applicable to the account. The value is defaulted from the value set at CIF level.
+
+Customer Preferential Interest (DR) - This field indicates the preferential interest (negative percent) set at the customer level which is applicable to the account.
+
+A/c Preferential Interest (Cr) - This field indicates the preferential interest (positive percent) set at the account level which is applicable to the account. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+A/c Preferential Interest (Dr) - This field indicates the preferential interest (negative percent) set at the account level which is applicable to the account. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Interest Credit A/c. - This field indicates the account to which interest rate must be credited. The valid values are: Operative account, original account and Payment system.
+
+Interest Debit A/c. - This field indicates the account to which interest rate must be debited. The valid values are: O - Operative account, S - Original account and T - Payment system.
+
+Interest Debit A/c ID - This field indicates the ID of the account to which interest must be Debited. The system allows you to specify the Int. Dr. A/c ID whose currency is different from the account currency.
+
+Interest Credit A/c ID - This field indicates the ID of the account to which interest must be credited. The system allows you to specify the Int Cr. A/c ID whose currency is different from the account currency.
+
+Interest Rate Code - This field indicates the code of the interest rate table to be used for calculation of interest. This field is default populated with the value specified at scheme level. This can be modified. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Account Pegged – This field indicates if the interest rate applicable to the account must be pegged to the account and be kept constant for a specific period. The valid values are: Yes and No. Any change in the interest rate is not applicable to those accounts for which the value of the field account pegged is set as Yes and for which a pegging frequency is specified. All such accounts must be reviewed on the review date else the interest calculation would not go through for these accounts. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Pegging Review Date - This field indicates the date until which the account is pegged. Finacle automatically reviews the pegged interest rate for the account on this date. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Pegging Frequency – This field indicates the frequency in months and days for pegging interest rate to the account. This field will be hidden for the accounts opened under negotiated interest type of product. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Interest Calculation Frequency Credit - This field represents the frequency at which the interest must be calculated. The value in this field is default populated from the scheme level. This can be modified.
+
+Next interest calculation date (Cr) - This field indicates the next interest calculation date.
+
+Interest Calculation Frequency (Dr) - This represents the frequency at which the interest must be calculated. The value in this field is default populated from the scheme level. This can be modified.
+
+Next Interest Calculation Date (Dr) - This field indicates the next interest calculation date.
+
+Interest Compounding Frequency (Dr) - This indicates the frequency at which the debit interest must be compounded. For example, it could be 'Daily'.
+
+Credit Compounding Rest Indicator - This indicates the compounding rest used for compounding the interest.
+
+Apply Discounted Interest Rate (Dr) - This field indicates whether discounted interest rate must be applied for calculating the interest. This field is applicable to loan accounts when the bank wishes to recover interest upfront during disbursement of the loan. The bank also pays interest on a deposit account at discounted rate of interest instead of the contracted rate if the interest is paid before the specified interest flow date. The bank applies a discounting factor to the original interest if the customer requests payment of interest before the normal interest payable date.
+
+Click on Continue>Tax Details
+
+Tax Details
+
+Tax Details Fields
+
+Tax Category - This field indicates the category of the tax to be collected. The valid values are Account Level withholding Tax, Customer Tax Deducted at Source, Eligible for Tax Deduction at Source and No Tax.
+
+Withholding Tax Level - This field indicates the level from which the tax parameters for tax calculation must be picked up. The valid values are Scheme level, Customer Level and Account level.
+
+Withholding tax floor Limit - This field indicates the withholding tax floor limit applicable for tax calculation.
+
+Withholding Tax % - This field indicates the percentage of the interest amount which is payable as withholding tax. It defaults to 15% for residents.
+
+Withholding tax borne by - This field indicates the person who must bear the tax. The valid values are None, All and Principal A/c. holder only.
+
+For customers who are exempted from paying withholding tax such as SACCOs, this field shall be NONE
+
+Tax Deducted at Source Operative A/c. ID - This field indicates the ID of the account from which the tax is to be recovered.
+
+Waive Withholding Tax - This field indicates if withholding tax must be applied at the account level, account holder level or none. This filed is applicable if the Tax Category field is 'A/c. Level Withholding tax'.
+
+Withholding Tax Notice Applicable At - This filed indicates if the notice is applicable at the account level or account holder level.
+
+Withholding Tax Notice Received Date - This date is used in calculating the withholding tax along with the Withholding Tax Notice Period field.
+
+Tax certificate Number, Tax Waiver Start Date, Tax Waiver End date, Tax Certificate Submission Date and Tax Form Particulars – These fields are used to capture the tax details and are applicable where withholding tax is waived.
+
+Click on Continue> Scheme details
+
+Scheme Details Field
+
+The following information is displayed in the Scheme Details tab which its set up is done at the product level.
+
+Click on Continue>Nomination Details
+
+Nomination Details Field
+
+This is a non-mandatory screen which is only used if the nomination indicator is set as Yes in the scheme details. Nomination is shall always be NO.
+
+Click on Continue button>Related Party Details
+
+Related Party Details
+
+This section allows you to capture the power of attorney holder information, letter of authority information, joint holder information, Guardian Cif for minor account and authorized signatories information.
+
+The first record in Related Party details is populated from the CIF ID of the main Account holder. All other holders for an account can be added
+
+In case of a minor account, add the parent or guardian.
+
+Click on the Add button on Document List
+
+Select the Relation type as Authorized Signatory and Select the Relation Code as parent/guardian
+
+Input the CIF of the parent/guardian
+
+Click on Save and Preview
+
+The record will be added.
+
+Click on Continue>Account Limit Details
+
+Account Limit Details
+
+This section shall be used to set limit at account level
+
+Click on Continue>General Details
+
+General Details
+
+This section is used to set overdraft limits, language and cheque limit details, fetches details from scheme level.
+
+Click on Continue>Signature mandates
+
+Signature Mandates
+
+Click continue button>Funding Instructions
+
+Funding Instructions
+
+Used when a customer wishes to fund account through transfer from an existing account.
+
+Select Transfer on Transaction Type
+
+Input currency of the funding account on CCY
+
+Input the amount to transfer on Transaction Amt
+
+Input funding account on Debit A/C ID.
+
+Click continue button>Exception Limit Details
+
+Exception Limit Details
+
+Used to capture Limits pertaining to cash, clearing and transfer the limits set during CGSP are defaulted here.
+
+Click continue button>Bank Employee Details
+
+Bank Employee Details
+
+The relationship manager details captured from the CIF level will be displayed on this page and its editable if the relationship manager at CIF level is different with account relationship manager for account.
+
+If the account holder is a relative of an employee, then those details shall be captured on this page under related Bank Employee details.
+
+Click Continue button>Document details
+
+Documents Details
+
+You can upload various scanned documents collected for the account opening in this section.
+
+Click on the ADD button
+
+Select Document Code>Due Date: The date before which the document must be submitted to the bank>Received Date: The date on which the document is received by the bank > Expiry Date: The expiry date of the documents received by the bank
+
+Click on Upload document to attach the desired report.
+
+Click on Save
+
+Click on Save and Add new to attach another document
+
+Click on Save and Preview after uploading the desired documents
+
+Click on Continue>Flexi Fixed Deposit Details
+
+Flexi Fixed Deposit Details
+
+Finacle supports Flexi Fixed Deposit facility which customer has the option to choose for making deposits under specified scheme for specified period when the balance in the operative accounts exceeds specified threshold limit.
+
+Click on Continue>Payment System Details
+
+Payment System Details
+
+Used to capture the payment system details if the Interest Credit indicator is set as payment system in the interest Details Screen
+
+Click Continue button>Base II Compliance Details
+
+Click Continue button>MIS Details
+
+MIS Details
+
+Mandatory field where MIS codes for the accounts opened will be captured. Entry of details is done through the codes. The entry of appropriate codes is useful for generating various MIS reports.
+
+Select Sector Code and Subsector Code.
+
+Click Free codes
+
+Select DSO Code
+
+Select Business Economic Activity Code
+
+Select Product Segment if applicable
+
+Click Free Text
+
+Input Purpose of Account
+
+Input Source of funds
+
+Select Bank Specific Sector Code
+
+Select Bank Specific Sub-Sector Code
+
+Note that ARO code will be auto populated
+
+Click Continue button>Other details
+
+Other Details
+
+This is a non- mandatory section used for capturing details pertaining to applicability of Payment system, DSA Details and Account label details.
+
+Click Submit button
+
+Capture Of Customers Photo, Signature for Individual Retail Account
+
+SDO will use menu CACOF to capture photo and Signature using Webcam and Signature pad respectively.
+
+It is a Maker-Checker Process with two Functions:
+
+Maker shall Generate Form
+
+Checker shall Authorize Form
+
+Generate Form
+
+SDO shall invoke CACOF menu and select the Generate Form function
+
+Input account ID >Select CIF ID from searcher
+
+Click Go Button
+
+Capture Photo
+
+Capture Signature (Capture from Signature pad or Webcam)
+
+Capture ID Front
+
+Capture ID Back
+
+Capture Remarks-Customer Name, Id No and Signing Mandate as Sole Signatory.
+
+Click submit button.
+
+CACOF Verification for Individual Retail Account
+
+Invoke CACOF (Account Opening Form) Menu
+
+Select Authorize Form Option from function Field
+
+Select Account ID from the searcher
+
+Click GO Button
+
+Click View Button to generate account opening form.
+
+Checker shall review the account opening form and confirm customers details captured are accurate.
+
+Click on the Upload button to upload the generated mandate on EDMS.
+
+Uploaded mandate shall have document index number displayed on Document Index Field
+
+Click Submit Button
+
+Modifying Account Before Verification
+
+Invoke menu MOSAV (Modify Opened Savings Account before Verification) to modify savings account or menu MOCAV (Modify Opened Current Account before Verification) to modify current account
+
+Input account number and click on Go
+
+The details that can be amended on this page are Account Statement, Statement frequency, Dispatch Mode, Alerts Registration Required, Premium Banking Account and Channel subscription
+
+Click on Continue
+
+Visit the Interest Details, Tax Details, Scheme Details, Nomination Details, Related Party Details, A/C Limit Details, General Details, Signature Mandates, Funding Instructions, Exception Limit Details, Bank Employee Details, Document Details, Flexi Fixed Deposit Details, Payment System Details, MIS Details and Other Details tabs and amend the desired fields
+
+Click Submit button
+
+Account Opening Verification
+
+Invoke menu VSAO (Verify Savings Account Opening) to verify savings account or menu VCAO (Verify Current Account Opening) to verify current account.
+
+Input account number or select from the account Id searcher>Click Go button
+
+View Basic Details and Click on Continue
+
+Visit the Interest Details, Tax Details, Scheme Details, Nomination Details, Related Party Details, A/C Limit Details, General Details, Signature Mandates, Funding Instructions, Exception Limit Details, Bank Employee Details, Document Details, Flexi Fixed Deposit Details, Payment System Details, Mis Details and Other Details tabs and to view details captured during account opening
+
+From Other Details tab, Click Submit button
+
+Joint Account Opening
+
+Introduction
+
+To open joint accounts in Finacle, the joint account holders must have a CIF. For the joint account holders without a CIF, first create retail CIFs as Contact as per Ref 8.1.2.
+
+When opening a joint account use one of the CIFs as the main CIF to proceed.
+
+Joint Account Opening
+
+Invoke menu OSA (Open Savings Account) to open savings account or menu OCA (Open Current Account) to open a current account.
+
+Input the CIF of the main joint holder on CIF ID field
+
+Select the Scheme Code
+
+Select Currency
+
+Click Go button.
+
+The Account Name will default to the name of the main CIF.
+
+Amend the account name to the names of the joint holders
+
+Input Statement frequency>Dispatch Mode>Select Yes on Enable Pass Sheet Frequency at Related Party
+
+Alert Registration Required * if yes select alert type (Credit, Debit or Both)
+
+Premium Banking A/c for executive banking services
+
+Channel Registration (Omni Retail, Mobile Banking or Both)
+
+Click On Continue Button> Additional Details
+
+Additional Details
+
+Interest Details page (Not mandatory)
+
+This field is default, populated with the value specified at scheme level. Specifies information (all interest and tax related parameters information) in the Interest Details.
+
+Pay Interest - This field indicates if interest must be paid to the account. The valid values are: Yes or No.
+
+Collect Interest - This field indicates if interest must be collected from the account. The valid values are: Yes or No.
+
+Credit Interest % min. /max. - This field indicates the minimum and maximum interest percent payable to the account.
+
+Allow Negative Credit Interest field would determine whether negative interest will be applied for account or not. The default percolation would happen from scheme level. If Allow Negative Credit Interest is yes at the scheme level, then P&L Placeholder and Negative Payable Placeholder exist at the scheme level.
+
+If "Allow Negative Credit Interest" indicator is Yes at scheme level and changed to No at A/c. level or vice versa, Default parameter overridden exception is shown to user.
+
+Debit Interest % min. / max. - This field indicates the minimum and maximum interest percent to be collected from the account.
+
+Customer Preferential Interest (Cr) - This field indicates the preferential interest (positive percent) set at the customer level which is applicable to the account. The value is defaulted from the value set at CIF level.
+
+Customer Preferential Interest (DR) - This field indicates the preferential interest (negative percent) set at the customer level which is applicable to the account.
+
+A/c Preferential Interest (Cr) - This field indicates the preferential interest (positive percent) set at the account level which is applicable to the account. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+A/c Preferential Interest (Dr) - This field indicates the preferential interest (negative percent) set at the account level which is applicable to the account. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Interest Credit A/c. - This field indicates the account to which interest rate must be credited. The valid values are: Operative account, original account and Payment system.
+
+Interest Debit A/c. - This field indicates the account to which interest rate must be debited. The valid values are: O - Operative account, S - Original account and T - Payment system.
+
+Interest Debit A/c ID - This field indicates the ID of the account to which interest must be Debited. The system allows you to specify the Int. Dr. A/c ID whose currency is different from the account currency.
+
+Interest Credit A/c ID - This field indicates the ID of the account to which interest must be credited. The system allows you to specify the Int Cr. A/c ID whose currency is different from the account currency.
+
+Interest Rate Code - This field indicates the code of the interest rate table to be used for calculation of interest. This field is default populated with the value specified at scheme level. This can be modified. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Account Pegged – This field indicates if the interest rate applicable to the account must be pegged to the account and be kept constant for a specific period. The valid values are: Yes and No. Any change in the interest rate is not applicable to those accounts for which the value of the field account pegged is set as Yes and for which a pegging frequency is specified. All such accounts must be reviewed on the review date else the interest calculation would not go through for these accounts. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Pegging Review Date - This field indicates the date until which the account is pegged. Finacle automatically reviews the pegged interest rate for the account on this date. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Pegging Frequency – This field indicates the frequency in months and days for pegging interest rate to the account. This field will be hidden for the accounts opened under negotiated interest type of product. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Interest Calculation Frequency Credit - This field represents the frequency at which the interest must be calculated. The value in this field is default populated from the scheme level. This can be modified.
+
+Next interest calculation date (Cr) - This field indicates the next interest calculation date.
+
+Interest Calculation Frequency (Dr) - This represents the frequency at which the interest must be calculated. The value in this field is default populated from the scheme level. This can be modified.
+
+Next Interest Calculation Date (Dr) - This field indicates the next interest calculation date.
+
+Interest Compounding Frequency (Dr) - This indicates the frequency at which the debit interest must be compounded. For example, it could be 'Daily'.
+
+Credit Compounding Rest Indicator - This indicates the compounding rest used for compounding the interest.
+
+Apply Discounted Interest Rate (Dr) - This field indicates whether discounted interest rate must be applied for calculating the interest. This field is applicable to loan accounts when the bank wishes to recover interest upfront during disbursement of the loan. The bank also pays interest on a deposit account at discounted rate of interest instead of the contracted rate if the interest is paid before the specified interest flow date. The bank applies a discounting factor to the original interest if the customer requests payment of interest before the normal interest payable date.
+
+Click on Continue>Tax Details
+
+Tax Details
+
+Tax Details Fields
+
+Tax Category - This field indicates the category of the tax to be collected. The valid values are Account Level withholding Tax, Customer Tax Deducted at Source, Eligible for Tax Deduction at Source and No Tax.
+
+Withholding Tax Level - This field indicates the level from which the tax parameters for tax calculation must be picked up. The valid values are Scheme level, Customer Level and Account level.
+
+Withholding tax floor Limit - This field indicates the withholding tax floor limit applicable for tax calculation.
+
+Withholding Tax % - This field indicates the percentage of the interest amount which is payable as withholding tax. It defaults to 15% for residents.
+
+Withholding tax borne by - This field indicates the person who must bear the tax. The valid values are None, All and Principal A/c. holder only.
+
+For customers who are exempted from paying withholding tax such as SACCOs, this field shall be NONE
+
+Tax Deducted at Source Operative A/c. ID - This field indicates the ID of the account from which the tax is to be recovered.
+
+Waive Withholding Tax - This field indicates if withholding tax must be applied at the account level, account holder level or none. This filed is applicable if the Tax Category field is 'A/c. Level Withholding tax'.
+
+Withholding Tax Notice Applicable At - This filed indicates if the notice is applicable at the account level or account holder level.
+
+Withholding Tax Notice Received Date - This date is used in calculating the withholding tax along with the Withholding Tax Notice Period field.
+
+Tax certificate Number, Tax Waiver Start Date, Tax Waiver End date, Tax Certificate Submission Date and Tax Form Particulars – These fields are used to capture the tax details and are applicable where withholding tax is waived.
+
+Click on Continue> Scheme details
+
+Scheme Details Field
+
+The following information is displayed in the Scheme Details tab which it's set up is done at the product level
+
+Click on Continue>Nomination Details
+
+Nomination Details Field
+
+This is a non-mandatory screen which is only used if the nomination indicator is set as Yes in the scheme details. Nomination is shall always be NO.
+
+Click on Continue button>Related Party Details
+
+Related Party Details
+
+This section allows you to capture the power of attorney holder information, letter of authority information, joint holder information, Guardian CIF for minor account and authorized signatories information.
+
+The first record in Related Party details is populated from the CIF ID of the main Account holder. All other holders for an account can be added
+
+In case of a minor account, add the parent or guardian.
+
+Click on the Add button on Document List
+
+Select the Relation type as Authorized Signatory
+
+Input the CIF joint account holder
+
+Click on Save and Add New to add the other joint account holders
+
+Click Save on Preview
+
+Click on Continue>Account Limit Details
+
+Account Limit Details
+
+This section shall be used to set limit at account level
+
+Click on Continue>General Details
+
+General Details
+
+This section is used to set overdraft limits, language and cheque limit details, fetches details from scheme level.
+
+Click on Continue>Signature mandates
+
+Signature Mandates
+
+Click continue button>Funding Instructions
+
+Funding Instructions
+
+Used when a customer wishes to fund account through transfer from an existing account.
+
+Select Transfer on Transaction Type
+
+Input currency of the funding account on CCY
+
+Input the amount to transfer on Transaction Amt
+
+Input funding account on Debit A/C ID.
+
+Click continue button>Exception Limit Details
+
+Exception Limit Details
+
+Used to capture Limits pertaining to cash, clearing and transfer the limits set during CGSP are defaulted here.
+
+Click continue button>Bank Employee Details
+
+Bank Employee Details
+
+The relationship manger details captured from the CIF level will be displayed on this page and its editable if the relationship manager at CIF level is different with account relationship manager for account.
+
+If the account holder is a relative of an employee, then those details shall be captured on this page under related Bank Employee details.
+
+Click Continue button>Document details
+
+Documents Details
+
+User can upload various scanned documents collected for the account opening in this section.
+
+Click on the ADD button
+
+Select Document Code>Due Date: The date before which the document must be submitted to the bank>Received Date: The date on which the document is received by the bank > Expiry Date: The expiry date of the documents received by the bank>Click on Upload document to attach the desired report.
+
+Click on Save
+
+Click on Save and Add new to attach another document
+
+Click on Save and Preview after uploading the desired documents
+
+Click on Continue>Flexi Fixed Deposit Details
+
+Flexi Fixed Deposit Details
+
+Finacle supports Flexi Fixed Deposit facility which customer has the option to choose for making deposits under specified scheme for specified period when the balance in the operative accounts exceeds specified threshold limit.
+
+Click on Continue>Payment System Details
+
+Payment System Details
+
+Used to capture the payment system details if the Interest Credit indicator is set as payment system in the interest Details Screen
+
+Click Continue button>Base II Compliance Details
+
+Click Continue button>MIS Details
+
+MIS Details
+
+Mandatory field where MIS codes for the accounts opened will be captured. Entry of details is done through the codes. The entry of appropriate codes is useful for generating various MIS reports.
+
+Select Sector Code and Subsector Code.
+
+Click Free codes
+
+Select DSO Code
+
+Select Business Economic Activity Code
+
+Select Product Segment if applicable
+
+Click Free Text
+
+Input Purpose of Account
+
+Input Source of funds
+
+Select Bank Specific Sector Code
+
+Select Bank Specific Sub-Sector Code
+
+Note that ARO code will be auto populated
+
+Click Continue button>Other details
+
+Other Details
+
+This is a non- mandatory section used for capturing details pertaining to applicability of Payment system, DSA Details and Account label details.
+
+Click Submit button
+
+Joint Account Opening Photos & Signature Joint Account
+
+Account opening officer shall capture photo & signatures for all joint holder members including the main Joint holder.
+
+Invoke menu CACOF (Account Opening Form)
+
+Select Generate Form from Function
+
+Input account number or select it from the searcher
+
+Select the related party CIF from the CIF ID searcher
+
+Capture photo & Signature of joint holder
+
+Input Customer Name, ID Number, Designation i.e Secretary on Remarks field
+
+Click submit button
+
+Repeat capturing of photo & signatures for other joint holders and main joint holder
+
+Verification of Joint Account Opening
+
+Refer to Account Opening Verification section
+
+Corporate Account Opening Process
+
+Creating a Corporate Customer Information File
+
+The following process shall be followed to create a corporate Customer Information File.
+
+Invoke menu CERC (Create Corporate CIF)
+
+Select Customer on CIF subtype > Click GO button.
+
+Note.
+
+Customer- This is the entity which is starting a new business relationship with the bank
+
+Prospect-This is the entity which the bank intent to start a future business relationship while
+
+Non customer -This is the entity that does not have any current business relationship with the bank but has a business relation with one of the customer to the bank.
+
+See additional notes on creation of Prospect and Non customer CIF subtypes.
+
+Input Corporate Name
+
+Select identification document from Identification Document Code searcher
+
+Input registration number on Unique ID
+
+Click Perform Dedup.
+
+The Deduplicate check establishes whether the CIF already exists in the database or not to avoid creation of duplicate CIFs.
+
+For potentially matching corporate CIF, the enrich button will be activated for one to enrich.
+
+If the entity does not exist, the screen below will be displayed
+
+Click on Perform Negative List. This checks whether the entity is negatively listed internally
+
+Click on Perform Blacklist. This operation checks whether the entity is blacklisted externally
+
+Click continue button>Basic Details
+
+Basic Details
+
+Input Corporate Name>Date of Incorporation
+
+Select Legal entity type
+
+Select Corporate segment
+
+Input the Registration number
+
+Input Key contact person's name
+
+Input Key Contact person telephone number
+
+Input Key contact person email address
+
+Input Key contact person postal address
+
+Select on the relationship type as:
+
+New- for a newly formed/incorporated entity
+
+Merger- for combination of two corporates
+
+Amalgamation -for combination of more than two corporate entities
+
+Capturing of Identification Document for a Corporate CIF
+
+Click on the add (+) on the Identification summary list table
+
+Select the Document Type from the searcher as IDPRFC (Identification proof of corporate)
+
+Select the document code from identification document code list
+
+Input Document number (registration number)
+
+Select Preferred
+
+Where more than one document is required, the mandatory and preferred document must be preferred status Y and any other subsequent document preference status shall be N.
+
+Select Country of Issue
+
+Input the issue date as per the registration document
+
+Source will autopopulate.
+
+Click the add button (+) on the attachment list to attach a document
+
+On Add record mode, there are the following modes
+
+Link: Used when the document is being retrieved from an existing CIF.
+
+Add: Used when the document is being derived from save documents.
+
+Capture: Used when the document is to be captured using web cam
+
+Select Add mode>Document title automatically populates as IDPRFC
+
+Browse new document by choosing from file
+
+Click on upload
+
+Click Save button
+
+Click Save and Add New to add more than one document>Click Save and Preview after attaching documents.
+
+Adding Address for Corporate CIF
+
+Postal Address
+
+Select preferred address type from the drop-down list as postal address
+
+Click the (+) button on address summary list
+
+Select the Address Type-Postal address
+
+Address format -Free text
+
+Input address on Address Line 1
+
+Input postal code or select from searcher-City/Town, County and Country fields auto populate once the postal code is input. Address valid date default to BOD
+
+Click on Save and Add New to add physical address.
+
+Select Business Physical address from Address Type
+
+Select Address Format- Structured
+
+Enter the house no./Building no.
+
+Enter street no.
+
+Enter street name
+
+Input postal code or select from the searcher-City/Town, County and Country fields auto populate once the postal code is input
+
+Click Save and Preview button.
+
+The record is added successfully
+
+Adding Phone and Email details for Corporate CIF
+
+Select the preferred phone type
+
+Select preferred email type
+
+Click add button (+) on phone and email summary list
+
+Select channel as phone
+
+Select the type from drop-down menu
+
+Select Country
+
+Country code will auto populate
+
+Enter the phone no.
+
+Click Save and Add button
+
+Select the channel as email
+
+Select the type from the drop-down menu
+
+Enter the email address.
+
+Click Save and Add Preview.
+
+The record is added successfully
+
+Click continue button.
+
+Capture Other Details
+
+Select country of registration
+
+Select Industry Type
+
+Select country of operation
+
+Select business type
+
+Select classification
+
+The primary relationship manager ID defaults to the user creating the CIF.
+
+Amend and input the user of a Relationship manage with an ARO code. The ARO code will auto populate.
+
+Click on corporate representative details
+
+Select Customer on Bank Relation Type
+
+Input retail CIF ID for the representative
+
+Select Retail on Address mode
+
+Select Mailing on Address type.
+
+Click Currency
+
+Click on the add button (+) on currency detail list
+
+Select the currency code-CCY from the searcher
+
+Save and preview to complete or Save and Add new to add another currency.
+
+Click KRA pin to auto populate the tax details as shown below.
+
+Click OK.
+
+The following buttons will be activated.
+
+Save and Enrich – Use this option to save CIF as a draft while proceeding to specify remaining details in the CIF. After enriching the CIF, the customer can submit the CIF for approval.
+
+Save- Use this option to save CIF as a draft. The details are not updated to the database. Ince the CIF record is saved, it remains in the user's self-tray. The CIF can be accessed only by the maker through the enrichment menu.
+
+Submit- Use this option to save CIF details into the database, the selected process is used for CIF approval and the status of the CIF is changed to 'Under Verification' status.
+
+Cancel- Deletes all the details.
+
+Click on the Save and Enrich. A CIF ID is generated
+
+Click on Proceed To Enrich>Additional Details
+
+Additional Details
+
+Click continue>Relationship details with other banks
+
+Click on continue button >Reporting and reference details
+
+Select Sector and Subsector>CBK sector and subsector
+
+Select Region
+
+Select Affiliate to Bank.
+
+Affiliated is the case of subsidiaries to the bank such as Kingdom Securities Ltd, Jamii Bora Bank etc.
+
+Select Insider to bank. Insider is in the case of Director, CEO, and Significant Shareholder.
+
+If the customer is an insider, the insider role must be selected.
+
+Click on Continue> Background check details
+
+Background Check Details
+
+Input main source of funds
+
+Input Tax Id (KRA pin)
+
+Select Tax Country
+
+Select whether the corporate is tax exempt Y or not N>Foreign Account Tax Details.
+
+Note1: Where the corporate has registered a KRA pin, the system will auto populate the number on the Tax ID field, however, if the KRA PIN is not generated the user will have to enter manually.
+
+Note 2: Where the corporate is tax exempt field is Y the following fields will be activated as mandatory.
+
+Tax deducted at source exemption form ref no.
+
+Tax deducted at source exemption submission date.
+
+Tax exemption start date.
+
+Tax exemption end date.
+
+This section is used to record tax details for US locale only.
+
+Fatca identification, requirement and process is covered in detail on APPENDIX VI – FATCA IDENTIFICATION REQUIREMENTS AND PROCESS
+
+Foreign A/c Tax reporting required field will be applicable for US citizen, otherwise the default status will be N
+
+For US citizen, Select Yes on the Foreign A/c Tax reporting required field this will activate the mandatory fields
+
+Click the + button to add a record
+
+Input foreign tax reporting country
+
+Enter tax reporting status
+
+Enter the foreign Tax Identification Number
+
+Select the last tax reporting review Date
+
+Select the next Foreign tax reporting review date.
+
+Click on Save
+
+Click on Continue > Additional Details
+
+Select Y/N on owned by foreigner
+
+Select Y/N for owned by women
+
+Select template type.
+
+For template type, select NGO for non-profit organization,
+
+Select Government for government institutions while the default for any other corporate.
+
+Click continue button >Customer Mapping
+
+Customer Mapping
+
+Click on save and validate.
+
+Click next section>Bank Defined Details
+
+Pricing details are not edited.
+
+Click continue >Risk rating and Score Details.
+
+Risk rating and Score Details
+
+Select customer rating
+
+Select PEP/PEP Associate as either Y/N
+
+Risk rating is system generated
+
+When PEP/PEP Associate is selected as Y, PEP name and the PEP role details must be input.
+
+Click Continue button > Access Control Details
+
+Access Control Details
+
+This section is used to feed Finacle CRM on which users shall be able to access the entity's CIF. Only the users in the access control can access the entity's CIF. Access Control has the following attributes.
+
+Access owner Group-This is Business group. The system defaults to General Banking
+
+Access Owner Segment-This is the Access Owner and Access Segment, and it defaults to Preferential Banking.
+
+Click on Continue > Details for Official use.
+
+Details for Official Use
+
+Select status as Active>Select secondary segment.
+
+Click the Continue button > Details for Core Banking
+
+Details for Core Banking
+
+Capture Bank SWIFT Code indicator as Y and the Customer SWIFT code if applicable
+
+Click Continue button > Review Details
+
+Review Details
+
+Review details section is not editable.
+
+Click Continue button >Other details
+
+Other Details
+
+Click on + button to add a record of the Business Name
+
+Click Save
+
+Click Save and validate to proceed to the next section.
+
+Click on Save and Validate.
+
+Click on Next section> Preference Details
+
+Preference Details
+
+Select Enable E-banking as either Y/N
+
+Select Preferred Communication Channel
+
+Click on Continue> Product And Preferences
+
+Product and Preferences
+
+Click + button to add any records on product preferences list
+
+Select Product Category from the drop down
+
+Enter Product name
+
+Enter subscription Start and End date
+
+Enter any additional Remarks
+
+Click save to display the records> Click Save and validate> Click Next section.
+
+Click on Save and Validate
+
+Click Next Section> Financial Details
+
+Financial Details
+
+This section entails capturing of Transaction Details, Corporate Financial Details and Other details. It is not a mandatory section.
+
+Transaction Details
+
+Click (+) Add button to capture all the transaction details
+
+Click save and preview to display the added records
+
+Click Continue
+
+Corporate Financial Details
+
+Enter the General Details. Year, Month, Audit Status and Frequency.
+
+Click Save and Preview to display the summary.
+
+Click Continue button > other details.
+
+Other Details
+
+Enter average annual income
+
+Select income range
+
+Select share holder indictor as Y or N
+
+Click on save and validate.
+
+Click next section>Relationship Details
+
+Relationship Details
+
+This section captures details of other banking relationship, corporate branch relationship and Relationship details with other banks.
+
+Other Banking Relationship
+
+Click on the add (+) button on the relationship list
+
+Select the Relationship type
+
+Select Existing CIF if N proceed to create new CIF if there is an existing CIF input the number
+
+Enter the Address category, Address type and Roles
+
+Click Save and Preview >Click continue
+
+The screen below will be displayed with all the banking relationship.
+
+Corporate Branch Relationship
+
+This section captures details of any corporate relationships.
+
+Click the (+) Add button
+
+Select Corporate Branch type
+
+Input Corporate branch name
+
+Input details of Corporate branch address
+
+Click Save and Preview> Click continue
+
+The below shows a summary of the corporate branch relationship
+
+Relationship with other banks
+
+Click on save and validate.
+
+Click view summary, the below screen is displayed.
+
+Note: All the six fields shall be in validated status before proceeding to submit for approval.
+
+Click on submit to forward the corporate CIF for approval.
+
+Corporate CIF Verification
+
+Invoke menu RCCAT (Retail and Corporate CIF Approval Tray)
+
+Select Corporate on CIF type
+
+Select Approve on Action
+
+Select the Entity Type
+
+Click Search to view the pending work.
+
+All the corporate CIFs for the SOL awaiting approval will be displayed.
+
+Select Approve on the desired CIF under Action.
+
+Click the View Audit Trail button
+
+Click on + button to view all details.
+
+Click on close
+
+Click on View CIF details >defaults to menu IECC Inquire on Corporate CIF
+
+Click on all the fields to view
+
+Click cancel to go back.
+
+Click on each tab to view the details entered
+
+Click Back to Summary
+
+After satisfactorily viewing and confirming all the details, the Checker can now select on Decision from the drop down (Approve, Close or Rework)
+
+Approve
+
+Select Approve
+
+Input the Remarks
+
+Click on the submit button to complete the process.
+
+The corporate CIF has been verified successfully.
+
+Rework
+
+When the checker has viewed all the details and is not satisfied with the data captured, they shall select this option to return to the maker for amendment.
+
+Select Rework on Decision
+
+Input Remarks-Reason for return.
+
+Click on Submit
+
+Close
+
+This option is used to delete the CIF from existence.
+
+Select Close on Decision
+
+Input Remarks-Reason for deleting
+
+Click on Submit
+
+Click on Ok.
+
+Corporate Account Opening Process
+
+Invoke menu OSA (Open Savings Account) to open savings account or menu OCA (Open Current Account) to open a current account.
+
+Input Corporate CIF ID
+
+Select scheme code
+
+Select Currency from CCY field
+
+Click Go Button
+
+Select Statement frequency, Dispatch Mode
+
+Select Yes on Enable Pass Sheet Frequency at Related Party
+
+Select Alert registration required. * if yes select alert type (Credit, Debit or Both)
+
+Select Premium Banking A/c for executive banking services
+
+Select Channel Registration (Omni Retail, Mobile Banking or Both)
+
+Click on Continue> Additional Details
+
+Additional Details
+
+Interest Details
+
+Interest Details page (Not mandatory)
+
+This field is default, populated with the value specified at scheme level. Specifies information (all interest and tax related parameters information) in the Interest Details.
+
+Pay Interest - This field indicates if interest must be paid to the account. The valid values are: Yes or No.
+
+Collect Interest - This field indicates if interest must be collected from the account. The valid values are: Yes or No.
+
+Credit Interest % min. /max. - This field indicates the minimum and maximum interest percent payable to the account.
+
+Allow Negative Credit Interest field would determine whether negative interest will be applied for account or not. The default percolation would happen from scheme level. If Allow Negative Credit Interest is yes at the scheme level, then P&L Placeholder and Negative Payable Placeholder exist at the scheme level.
+
+If "Allow Negative Credit Interest" indicator is Yes at scheme level and changed to No at A/c. level or vice versa, Default parameter overridden exception is shown to user.
+
+Debit Interest % min. / max. - This field indicates the minimum and maximum interest percent to be collected from the account.
+
+Customer Preferential Interest (Cr) - This field indicates the preferential interest (positive percent) set at the customer level which is applicable to the account. The value is defaulted from the value set at CIF level.
+
+Customer Preferential Interest (DR) - This field indicates the preferential interest (negative percent) set at the customer level which is applicable to the account.
+
+A/c Preferential Interest (Cr) - This field indicates the preferential interest (positive percent) set at the account level which is applicable to the account. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+A/c Preferential Interest (Dr) - This field indicates the preferential interest (negative percent) set at the account level which is applicable to the account. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Interest Credit A/c. - This field indicates the account to which interest rate must be credited. The valid values are: Operative account, original account and Payment system.
+
+Interest Debit A/c. - This field indicates the account to which interest rate must be debited. The valid values are: O - Operative account, S - Original account and T - Payment system.
+
+Interest Debit A/c ID - This field indicates the ID of the account to which interest must be Debited. The system allows you to specify the Int. Dr. A/c ID whose currency is different from the account currency.
+
+Interest Credit A/c ID - This field indicates the ID of the account to which interest must be credited. The system allows you to specify the Int Cr. A/c ID whose currency is different from the account currency.
+
+Interest Rate Code - This field indicates the code of the interest rate table to be used for calculation of interest. This field is default populated with the value specified at scheme level. This can be modified. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Account Pegged – This field indicates if the interest rate applicable to the account must be pegged to the account and be kept constant for a specific period. The valid values are: Yes and No. Any change in the interest rate is not applicable to those accounts for which the value of the field account pegged is set as Yes and for which a pegging frequency is specified. All such accounts must be reviewed on the review date else the interest calculation would not go through for these accounts. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Pegging Review Date - This field indicates the date until which the account is pegged. Finacle automatically reviews the pegged interest rate for the account on this date. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Pegging Frequency – This field indicates the frequency in months and days for pegging interest rate to the account. This field will be hidden for the accounts opened under negotiated interest type of product. This field will be hidden for the accounts opened under negotiated interest type of product.
+
+Interest Calculation Frequency Credit - This field represents the frequency at which the interest must be calculated. The value in this field is default populated from the scheme level. This can be modified.
+
+Next interest calculation date (Cr) - This field indicates the next interest calculation date.
+
+Interest Calculation Frequency (Dr) - This represents the frequency at which the interest must be calculated. The value in this field is default populated from the scheme level. This can be modified.
+
+Next Interest Calculation Date (Dr) - This field indicates the next interest calculation date.
+
+Interest Compounding Frequency (Dr) - This indicates the frequency at which the debit interest must be compounded. For example, it could be 'Daily'.
+
+Credit Compounding Rest Indicator - This indicates the compounding rest used for compounding the interest.
+
+Apply Discounted Interest Rate (Dr) - This field indicates whether discounted interest rate must be applied for calculating the interest. This field is applicable to loan accounts when the bank wishes to recover interest upfront during disbursement of the loan. The bank also pays interest on a deposit account at discounted rate of interest instead of the contracted rate if the interest is paid before the specified interest flow date. The bank applies a discounting factor to the original interest if the customer requests payment of interest before the normal interest payable date.
+
+Click on Continue>Tax Details
+
+Tax Details
+
+Tax Details Fields
+
+Tax Category - This field indicates the category of the tax to be collected. The valid values are Account Level withholding Tax, Customer Tax Deducted at Source, Eligible for Tax Deduction at Source and No Tax.
+
+Withholding Tax Level - This field indicates the level from which the tax parameters for tax calculation must be picked up. The valid values are Scheme level, Customer Level and Account level.
+
+Withholding tax floor Limit - This field indicates the withholding tax floor limit applicable for tax calculation.
+
+Withholding Tax % - This field indicates the percentage of the interest amount which is payable as withholding tax. It defaults to 15% for residents.
+
+Withholding tax borne by - This field indicates the person who must bear the tax. The valid values are None, All and Principal A/c. holder only.
+
+For customers who are exempted from paying withholding tax such as SACCOs, this field shall be NONE
+
+Tax Deducted at Source Operative A/c. ID - This field indicates the ID of the account from which the tax is to be recovered.
+
+Waive Withholding Tax - This field indicates if withholding tax must be applied at the account level, account holder level or none. This filed is applicable if the Tax Category field is 'A/c. Level Withholding tax'.
+
+Withholding Tax Notice Applicable At - This filed indicates if the notice is applicable at the account level or account holder level.
+
+Withholding Tax Notice Received Date - This date is used in calculating the withholding tax along with the Withholding Tax Notice Period field.
+
+Tax certificate Number, Tax Waiver Start Date, Tax Waiver End date, Tax Certificate Submission Date and Tax Form Particulars – These fields are used to capture the tax details and are applicable where withholding tax is waived.
+
+Click on Continue> Scheme details
+
+Scheme Details
+
+The following information is displayed in the Scheme Details tab which its set up is done at the product level
+
+Click on Continue>Nomination Details
+
+Nomination Details Field
+
+This is a non-mandatory screen which is only used if the nomination indicator is set as Yes in the scheme details. Nomination shall always be NO.
+
+Click on Continue button>Related Party Details
+
+Related Party Details
+
+Account signatories are added in this section.
+
+Click Add Button
+
+Select the Relation type as Authorized Signatory
+
+Enter valid CIF for a signatory
+
+Click on Save and Add New to add the other account signatories
+
+Click Save on Preview
+
+Click on Continue>Account Limit Details
+
+Account Limit Details
+
+This section shall be used to set limit at account level
+
+Click on Continue>General Details
+
+General Details
+
+This section is used to set overdraft limits, language and cheque limit details, fetches details from scheme level.
+
+Click on Continue>Signature mandates
+
+Signature Mandates
+
+Click continue button>Funding Instructions
+
+Funding Instructions
+
+Used when a customer wishes to fund account through transfer from an existing account.
+
+Select Transfer on Transaction Type
+
+Input currency of the funding account on CCY
+
+Input the amount to transfer on Transaction Amt
+
+Input funding account on Debit A/C ID.
+
+Click continue button>Exception Limit Details
+
+Exception Limit Details
+
+Used to capture Limits pertaining to cash, clearing and transfer the limits set during CGSP are defaulted here.
+
+Click continue button>Bank Employee Details
+
+Bank Employee Details
+
+The relationship manger details captured from the CIF level will be displayed on this page and its editable if the relationship manager at CIF level is different with account relationship manager for account.
+
+If the account holder is a relative of an employee, then those details shall be captured on this page under related Bank Employee details.
+
+Click Continue button>Document details
+
+Documents details
+
+You can upload various scanned documents collected for the account opening in this section.
+
+Click on the ADD button
+
+Select Document Code>Due Date: The date before which the document must be submitted to the bank>Received Date: The date on which the document is received by the bank > Expiry Date: The expiry date of the documents received by the bank
+
+Click on Upload document to attach the desired report.
+
+Click on Save
+
+Click on Save and Add new to attach another document
+
+Click on Save and Preview after uploading the desired documents
+
+Click on Continue>Flexi Fixed Deposit Details
+
+Flexi Fixed Deposit Details
+
+Finacle supports Flexi Fixed Deposit facility which customer has the option to choose for making deposits under specified scheme for specified period when the balance in the operative accounts exceeds specified threshold limit
+
+Click on Continue>Payment System Details
+
+Payment System Details
+
+Used to capture the payment system details if the Interest Credit indicator is set as payment system in the interest Details Screen
+
+Click Continue button>Base II Compliance Details
+
+Click Continue button>MIS Details
+
+MIS Details
+
+Mandatory field where MIS codes for the accounts opened will be captured. Entry of details is done through the codes. The entry of appropriate codes is useful for generating various MIS reports.
+
+Select Sector Code and Subsector Code.
+
+Click Free codes
+
+Select DSO Code
+
+Select Business Economic Activity Code
+
+Select Product Segment if applicable
+
+Click Free Text
+
+Input Purpose of Account
+
+Input Source of funds
+
+Select Bank Specific Sector Code
+
+Select Bank Specific Sub-Sector Code
+
+Note that ARO code will be auto populated.
+
+Click Continue button>Other details
+
+Other Details
+
+This is a non- mandatory section used for capturing details pertaining to applicability of Payment system, DSA Details and Account label details.
+
+Click Submit button
+
+Photo & Signature capture for Corporate Account Opened
+
+The Account opening officer shall capture photos & signatures for all account holders.
+
+Invoke menu CACOF (Account Opening Form)
+
+Select Generate Form from Function
+
+Input account number or select it from the searcher
+
+Select a CIF for one of the account holders
+
+Click Go Button
+
+Capture photo and signature of the account holder
+
+Input Customer Name, Identification document No and designation such as Treasurer where applicable on Remarks field
+
+Click Submit button
+
+Click on Repeat Task to capture signature, photo, and remarks for all account signatories.
+
+After capturing signatures and photographs of all signatories, capture account name as remarks for the main CIF on CACOF and click on SUBMIT
+
+CACOF Verification for Corporate Account Opening
+
+Checker shall invoke menu CACOF
+
+Select Generate Form on Function
+
+Input Account Id or select from the searcher
+
+Click on Go
+
+Click View Button To generate mandate
+
+Click Upload button and attach the mandate generated>Click Submit button
+
+Corporate Account Opening Verification
+
+Refer to "Account Opening Verification" process
+
+Corporate Account /Joint accounts Rules (Maintaining and mapping of the rules)
+
+Add a Rule
+
+The user shall:
+
+Invoke menu SVS (Signature Verification System)
+
+Click on Maintain rules
+
+Select Add on the function dropdown
+
+Under Rule Name Input a unique rule Name such as account number then alpha at the end to differentiate various rules for the same account, e.g., if account 0110000033001 has three rules, then rule names shall be as follows.
+
+0110000033001A
+
+0110000033001B
+
+0110000033001C
+
+NB: The rule name should not contain any spaces or special characters.
+
+Click on Go button
+
+Select an item from Entity Name drop down list, the list includes.
+
+Account Id
+
+Customer Id
+
+Employee Id
+
+Sol Id
+
+Image Access Code
+
+Sign Power No
+
+Keyword
+
+Credit/debit
+
+Transaction Amount
+
+Transaction Type
+
+Transaction Subtype
+
+Signature Group.
+
+On the Rule builder indicate correct values as indicated on the entity name table below. Entity name shall correspond to the correct values as indicated below.
+
+Select an operation from Relational operator. Example of available values are
+
+= : means Equal to.
+
+!= : means not equal to.
+
+>= : means greater or equal to.
+
+<= : means less or equal to.
+
+< : means less than.
+
+> : means greater than.
+
+Max : means maximum.
+
+Min : means minimum.
+
+Like : means comparison.
+
+Input valid value (e.g. if the entity name is account id, input a valid account number).
+
+Examples of Rules:
+
+Account Type = 0110000033001 and Transaction Amount<=10000, then under remarks we indicate 'Either to Sign'
+
+This means that for account number 011000033001 when transacting amounts below or equivalent to ten thousand either of mandated signatories will sign for this particular transaction. The system will display this rule when transacting amounts up to 10,000.
+
+Transaction amount >10,000 and transaction amount <=500,000, then under remarks field indicate 'Any Three to sign'
+
+This means that for the transaction above 10,000 and below or equal to 500,000, any three of mandated signatories will sign. Rule will apply to amounts above.
+
+Transaction amount > 0 or transaction amount !=0, then indicate in the remarks that 'All To Sign'
+
+This rule means that if transaction amount is not equal to zero (it can be positive or negative transaction as long as it is not a Zero) or transaction is greater than Zero then all to Sign for non-zero transactions.
+
+Account like 0110000033001 and Transaction Type =L then on the remarks field indicate 'Secretary and Treasurer to sign'
+
+This rule means that if the account matches above account and transaction type is clearing (refer to entity name table above) then Secretary and Treasurer are to sign.
+
+Note:
+
+This value can be a number or String depending on the item chosen in Entity Name. (Refer to the entity name table above) for the values to be entered when a specific entity name is chosen
+
+When you specify these three values, a condition is defined
+
+Example above shows how to build a rule based on transaction amount
+
+Example above shows how to build a rule based on transaction Type-Transfer
+
+Use the Logical operator option to define complex conditions as illustrated below.
+
+Note:
+
+The Logical Operator drop-down list has two options 'AND' and 'OR'.
+
+AND- Is a logical operator to create additional criteria while building a rule, it means that when all the conditions of the rule are met while transacting, then the rule will display.
+
+OR- Is a logical operator for creating additional criteria while adding a rule and it means that if either of the conditions in the rule is met when transacting then the rule will display.
+
+Define remarks or comments associated with the rule.(e.g. signing mandate, special account operating instructions)
+
+Note: The size of remarks field can take up to 650 characters. Remarks field is used to note few important points about a rule.
+
+Click TEST button to test the syntax of the defined rule i.e. whether the rule is defined properly
+
+Click SUBMIT button. On submission the record is sent for approval
+
+Click CANCEL to clear the rule.
+
+Verify Rule
+
+The checker shall follow the below procedure to verify a rule.
+
+Invoke menu SVS (Signature Verification System)
+
+Click on Maintain Rules
+
+select Verify from the Function dropdown
+
+Click on Go
+
+Select the rule to verify by checking on Verify check box.
+
+Click Submit to verify and Undo to reject a record.
+
+Note: When the rule is rejected, the maker must initiate creation of a new rule
+
+Inquire Rule
+
+The user shall follow the steps below to inquire on a rule
+
+Invoke menu SVS (Signature Verification System)
+
+Click Maintain Rules
+
+Select Inquire under Function dropdown
+
+Click Go button
+
+Type valid values in the Rule Name or search using search button
+
+A rule can be searched alternatively using the date it was created, Type the Date the rule was created on or search the date using searcher on Rule Created on Option.
+
+Click Submit to view details of the defined rule.
+
+Click Ok to exit the menu
+
+Common Rules
+
+Common rules are the signing instructions that apply to majority of accounts across the bank network. BOS will create such rules in the system and the user will map the right common rule to account depending on the customer request, these rules are as follows.
+
+Rule Name Rule Description
+
+Sole : Sole signatory
+
+Anyonetosign : Any one to sign
+
+Eithertosign : Either to sign
+
+Bothtosign : Both to sign
+
+Anytwo : Any two to sign
+
+Anythree : Any three to sign
+
+Anyfour : Any four to sign
+
+Alltosign : All to sign
+
+Anythreebutsec : Any three but secretary is mandatory
+
+During account opening the user shall capture signatures in CACOF menu then proceed to Map the common rule to account if the customer indicated any signing instructions as listed above. If the customer has a more specific rule which does not conform to rules above, then proceed to create a rule then map to the account.
+
+Mapping Account Rules
+
+Rules defined shall be mapped to account signatures using Map Account Rules option. An account may be associated with more than one rule, and each rule may be mapped to different sets of signatures.
+
+The number of signatures and the actual mapped signatures may vary from rule to rule. Similarly, signatures can also be mapped to rules associated with customers or employees.
+
+If mandatory conditions set in the customized rule map screen, then during verification process these conditions along with remarks will be displayed to the user.
+
+User shall verify signatures based on conditions and the result will be sent back to CORE.
+
+Incase multiple rule matching, any one of condition for the matched rule (that is logical OR condition of all matched rules) will be considered.
+
+The following procedure shall be followed to map a rule to an account:
+
+Invoke menu SVS (Signature Verification System)
+
+Click on Map Account Rules
+
+Select ADD on Function drop down. This function is to associate Rules to signatures, photos, and account
+
+Note: An account can have multiple number of rules linked
+
+Input valid Account IDs Or search for from the search button
+
+Click Go to proceed
+
+On the Rule Name, Type the rule to be linked to the account selected or search for the rule using search button.
+
+Click on SUBMIT to proceed to the next window for map Rule
+
+View the signature by clicking on view icon
+
+View photographs by clicking on the view icon
+
+Specify the number of compulsory signatures.
+
+If a signatory is compulsory select the Mandatory box for both the Signature and Photograph e.g. If the signing mandate is ALL TO SIGN, check all the signatories' photos and signature boxes. If there are no mandatory signatories do not check the boxes.
+
+Click submit button. On submission the record is sent for verification.
+
+Click Cancel to delete rule mapping performed
+
+Note:
+
+Checking the Compulsory box implies that if you create transaction that satisfies this rule, you must verify this signature by selecting the Verify check box that appears when you verify the signature.
+
+If you fail to click on the verify check box, of the signatures marked as mandatory then a report is generated in the core Banking Solution. This report has the status of all signatures for which signature verification is mandatory and transaction status is marked as failed for the signatures that were not verified.
+
+Verify Account Signature Map
+
+To verify signature Map, the following process shall be followed:
+
+Invoke menu SVS (Signature Verification System)
+
+Click on Map Account Rules
+
+Select Verify on Function drop down
+
+Click Go button
+
+Click on details for a particular account
+
+Verify the record by selecting Verify checkbox or Reject by selecting Undo check-box
+
+Click SUBMIT button to complete verification of Transaction
+
+MINOR ACCOUNT OPENING
+
+Introduction
+
+Minor accounts are grouped into two categories:
+
+Accounts for Minors under 18 years.
+
+Opened with Birth Certificate or Birth Notification as Identification document
+
+Accounts for the Unborn.
+
+Opened by an expectant mother with her personal Identification Document.
+
+Minor CIF Creation
+
+The procedure below shall be followed to create a minor CIF.
+
+Invoke menu CERC (Create Retail CIF)
+
+The CIF creation screen is displayed as shown below.
+
+Select the CIF subtype as "Customer"
+
+Click on GO button, below screen is displayed.
+
+Enter the minor Last name which is mandatory
+
+Select the Identification Document Code from the searcher as BIRC for birth certificate or BRN for birth notification.
+
+Enter the Identification Document Number in the Identification Document No. Field.
+
+Click on PERFORM DEDUP
+
+Click on PERFORM NEGATIVE LIST
+
+Click on PERFORM BLACKLIST
+
+Click on PERFORM IPRS
+
+Click Continue to proceed to Basic Details
+
+Capturing Basic Details.
+
+Input Salutation> First Name>Middle Name>Last Name>Gender>Date of Birth>Select YES on Minor
+
+Enter CIF ID for the parent or guardian
+
+Select the guardian type on Guardian (Mother, Father, Guardian)
+
+Click on ADD (+)
+
+Select IDENTIFICATION PROOF FOR RETAIL(IDPRF) on Document Type
+
+Select Document Code as Birth Certificate or Birth Notification
+
+Input Birth Certificate or Birth Notification number on Document number
+
+Select Preferred as Y
+
+Input Issue Date
+
+Click on ADD (+) on Attachments List
+
+Select the Appropriate Mode to Add the Record:
+
+Link- If the guardian has an existing CIF id with the same document used as the identification document. (Refer to 'Capturing Identification Document for a retail CIF'
+
+Capture – when the SDO wishes to take a photo of the identification document using a webcam. Refer to Capturing Identification Document for a Retail CIF'
+
+Add –To choose an already scanned and saved document on the computer in PDF or JPEG format.
+
+Click on Upload
+
+Click on Save.
+
+Click on Save and Preview
+
+Adding Customer Address
+
+Refer to the section on 'Adding Customer Address' above.
+
+Capturing Contact Details.
+
+Refer to section on 'Capturing Contact Details' above.
+
+Capturing Other Details.
+
+Capturing Residential Details, Miscellaneous Details and Currency Details
+
+Refer to section on 'Capturing Other Details' above
+
+Click on KRA to Generate KRA details then click on Save and Enrich
+
+Proceed to Enrich the CIF details on the displayed sections.
+
+Additional Details.
+
+To Enrich the MINOR CIF Additional Details, follow the same process used to Enrich a Retail CIF.
+
+Refer to the section on 'Additional Details' above
+
+Bank Defined Details.
+
+Same process used above for a Retail CIF enrichment of Bank Defined Details is followed
+
+Preferences Details.
+
+Minor CIF Preferences Details process is like that followed during Retail CIF Enrichment Above.
+
+Refer to the section on 'Preferences Details' above.
+
+Financial Details.
+
+Same process as Retail CIF Financial Details Enrichment done above.
+
+Relationship Details.
+
+Follow the Process used to Enrich a Retail CIF Relationship Details done above
+
+Click on the View Summary Button to confirm that all the sections are Saved and Validated.
+
+Click on the Submit button to send the CIF for approval.
+
+Verification of Retail CIF
+
+Using the menu RCCAT (Retail and Corporate CIF Approval Tray)
+
+Refer to the section on 'Approval of a Retail CIF'
+
+Minor Account Opening
+
+Minor accounts shall be opened under Savings account with scheme code MINOR using OSA (Open Savings Account)
+
+Basic Account Details
+
+Enter a valid enriched and verified Minor CIF on CIF ID field
+
+Select Scheme Code as Minor
+
+Click Go Button, the CIF details will be auto populated and displayed as shown below.
+
+Click CONTINUE to proceed to Additional Details.
+
+Capture Additional Details
+
+On the Related Party Details, SDO shall under additional details page:
+
+Click ADD button to add Guardian's Record or Records where account has more than One Signatories.
+
+The main CIF /Minor CIF details are available on the Related Party List.
+
+Click on ADD (+) button to add the Guardian (s).
+
+Capture the Relation Type as Authorized Signatory and the appropriate Relation Code.
+
+Scroll down to Capture the Guardian CIF Id on the CIF ID field
+
+Click on SAVE AND ADD NEW to add second signatory or SAVE AND PREVIEW to view a summary of the Related Party List.
+
+Proceed to Document Details Section and Capture the Relevant KYC Documents presented by the Guardian (s)
+
+Click on the SAVE button to save the Record and proceed to add any other document Presented.
+
+Click on SAVE AND PREVIEW to view a summary of the Documents.
+
+Click on MIS details section and capture all the mandatory fields.
+
+Click Submit and Proceed to Capture Photos & Signatures for the guardian(s)
+
+Photo & Signature Capture for Minor Account
+
+SDO shall:
+
+Invoke CACOF menu to capture photo & signatures using Webcam and Signature pad available.
+
+Remarks shall include Guardian Details which include Name, ID no, Designation & Signing Instructions.
+
+SUBMIT for Verification.
+
+CACOF Verification for Minor Account
+
+CACOF verification for minor account shall follow the same process as of Individual Retail Account.
+
+Follow steps Ref 17.2 CACOF verification for Retail Individual Account
+
+Minor Account Opening Verification
+
+Jumbo Junior account shall be verified using VSAO/VCAO menu. Follow step 15 Account Opening Verification
+
+Unborn CIF Creation
+
+Opened by an expectant mother with her personal Identification Document.
+
+The procedure below shall be followed to create a CIF ID for an Unborn Child.
+
+Invoke menu CERC (Create Retail CIF)
+
+The CIF creation screen is displayed as shown below
+
+Select the CIF subtype as "Customer"
+
+Click on GO button, below screen is displayed.
+
+Enter the minor Last name which is mandatory
+
+Select the Identification Document Code from the searcher as UNJJ for Unborn Jumbo Junior.
+
+Enter the Identification Document Number Presented by the Guardian i.e., Passport, National ID etc., in the Identification Document No. Field.
+
+Click on PERFORM DEDUP
+
+Click on PERFORM NEGATIVE LIST
+
+Click on PERFORM BLACKLIST
+
+Click on PERFORM IPRS
+
+Click Continue to proceed to Basic Details
+
+Basic Details Page
+
+Input Salutation, First Name, Middle Name, Last Name and Gender Details for the Guardian.
+
+Capture Date of Birth as BOD
+
+Select YES on Minor option field.
+
+Enter CIF ID for the parent or guardian
+
+Select the guardian type on Guardian (Mother, Father, Guardian)
+
+Click on ADD (+)
+
+Select IDENTIFICATION PROOF FOR RETAIL(IDPRF) on Document Type
+
+Select Document Code as UNJJ for unborn Jumbo junior
+
+Enter the guardian Identification Document Number on Document No. Field in the following format:
+
+Identification document number plus a running sequence e.g. 1234567801 where 12345678 is the id document no. and 01 being the running sequence for the very first unborn CIF ID created for the customer.
+
+Select Preferred as Y
+
+Input Issue Date as BOD (current date).
+
+Expiry Date input 15 months after BOD(current date)
+
+Click on ADD (+) on Attachments List
+
+Select the Appropriate Mode to Add the Record:
+
+Link- If the guardian has an existing CIF id with the same document used as the identification document. Refer to section on Capturing Identification Document for a retail CIF.
+
+Capture – when the SDO wishes to take a photo of the identification document using a webcam. Refer to section on Capturing Identification document for a retail CIF
+
+Add –To choose an already scanned and saved document on the computer in PDF or JPEG format.
+
+Click on Upload
+
+Click on Save.
+
+Click on Save and Preview
+
+Adding Customer Address Summary
+
+Follow the process used to add customer Address summary for a retail CIF documented above.
+
+Capturing Contact Details
+
+Follow the process used to Capture Contact Details for a retail CIF documented above.
+
+Capturing Other Details
+
+Follow Documented Process for a Retail CIF to Capture Other Details.
+
+Capturing Residential Details
+
+Capturing Miscellaneous Details
+
+Capturing Currency Details
+
+Click on KRA to Generate KRA details then click on Save and Enrich
+
+Proceed to Enrich the CIF details on all the following sections.
+
+Additional Details-REF 10
+
+Bank Defined Details- REF 11
+
+Preferential Details- REF12
+
+Financial Details-REF13
+
+Relationship Details-REF 14
+
+Unborn Child Account Opening
+
+The process remains the same as illustrated in MINOR ACCOUNT OPENING.
+
+Marketed Account
+
+For marketed accounts, the same Process for Retail and Corporate CIF creation and Savings and current account opening processes shall be followed.
+
+The difference is that the SDO shall:
+
+Capture the customers Photo, ID front and ID back and Signature using a Webcam.
+
+Capture very clear images to avoid RTS.
+
+Attach the mandate filled by the customer shall be attached on Document details during account opening on menu OSA (Open Savings Account) or menu OCA (Open Current Account).
+
+ModifyING Account Before Verification
+
+Opening a current/Savings account involves capturing various details. These details, if required, can be modified only by the maker before the verification of the account opening process. This activity allows you to modify account details before the account is verified.
+
+Details that can be amended before Verification for both Savings and Current Accounts Include the following:
+
+Basic Account Details Page:
+
+A/c Name
+
+A/c statement details
+
+Alerts Registration Details
+
+Premium Banking Details
+
+Channel Subscription
+
+Additional Details:
+
+Tax Details
+
+Related party Details
+
+Funding Instructions
+
+Bank Employee
+
+Document Details
+
+MIS details
+
+For Savings account, Maker shall invoke menu MOSAV
+
+For Current account MOCAV Menu shall be used
+
+Select the account form the searcher
+
+Amend the required record and submit account for verification using VSAO/ VCAO menu
+
+CancelING Savings/Current Account Opening Before Verification
+
+Invoke:
+
+Menu CSAO (Cancel Savings Account Opening) Menu for Savings Account
+
+Menu CCAO (Cancel Current Account Opening) menu for Current Account
+
+Key in account ID or select the account from the searcher
+
+Click Go button to view the accounts details
+
+Click Continue button to proceed to account additional details
+
+View all the pages under additional details
+
+Click Submit Button to complete cancellation
+
+Transfer of account between schemes
+
+The below procedure shall be followed to transfer an account from one scheme code to another.
+
+Invoke menu TASS (Transfer Accounts between Schemes)
+
+Input the account number to be transferred
+
+Note:
+
+That the source scheme code will default from the account number.
+
+The process shall be carried out as follows:
+
+Select target scheme code i.e., the new scheme code for the account and input Remarks which shall be the reason for account scheme transfer.
+
+Click on submit button
+
+On submission an Instruction Number is generated and the record is sent for verification
+
+Cancelling of account transfer between schemes
+
+This function is performed to undo transfer action before verification is done. The following procedure shall be followed to cancel transfer of account between schemes.
+
+Invoke menu CATSS (Cancel Accounts Transfer between Schemes)
+
+Input instruction number or select it from the searcher then click Go button.
+
+Click on the submit button to cancel the transfer.
+
+On submission, the screen below shall be displayed once transfer of account from one scheme to another is successful.
+
+Verification of transfer of accounts between schemes
+
+The following procedure shall be followed to verify transfer of accounts between schemes.
+
+Invoke menu VATRS-Verify Transfer between Schemes
+
+Input instruction number or select it from the searcher then click GO button
+
+Click submit button to approve the transfer
+
+On verification the account will be successfully transferred from one scheme code to another.
+
+Confirm the account has been transferred by using menu IEA (Inquire on Account)
+
+Invoke menu IEA (Inquire on Account)
+
+Input the account number and click on Go as shown below.
+
+View the scheme code field to confirm the new account scheme code.
