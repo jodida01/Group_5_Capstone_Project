@@ -23,37 +23,84 @@ class ComplianceChatbot:
     def load_resources(_self):
         """Load embeddings, chunks, and FAISS index"""
         try:
+            # Check if Data directory exists
+            if not os.path.exists("Data"):
+                st.error("❌ Data directory not found. Please ensure the 'Data' folder is included in your deployment.")
+                st.info("Required files:\n- Data/SEC5_embeddings.pkl\n- Data/SEC5_faiss.index (optional)")
+                logger.error("Data directory not found")
+                return False
+            
+            # Check if embeddings file exists
+            embeddings_path = "Data/SEC5_embeddings.pkl"
+            if not os.path.exists(embeddings_path):
+                st.error(f"❌ Embeddings file not found: {embeddings_path}")
+                st.info("Please ensure 'SEC5_embeddings.pkl' is in the Data folder and committed to your repository.")
+                logger.error(f"Embeddings file not found: {embeddings_path}")
+                return False
+            
             # Load embeddings and chunks
-            with open("Data/SEC5_embeddings.pkl", "rb") as f:
+            with open(embeddings_path, "rb") as f:
                 data = pickle.load(f)
             
             _self.chunks = [d["chunk"] for d in data]
             _self.embeddings = np.array([d["embedding"] for d in data], dtype="float32")
             
+            # Validate loaded data
+            if not _self.chunks or len(_self.chunks) == 0:
+                st.error("❌ No document chunks found in embeddings file.")
+                logger.error("Empty chunks in embeddings file")
+                return False
+            
             # Load or create FAISS index
-            if os.path.exists("Data/SEC5_faiss.index"):
-                _self.index = faiss.read_index("Data/SEC5_faiss.index")
+            faiss_path = "Data/SEC5_faiss.index"
+            if os.path.exists(faiss_path):
+                _self.index = faiss.read_index(faiss_path)
+                logger.info(f"Loaded existing FAISS index from {faiss_path}")
             else:
                 # Create index if it doesn't exist
+                st.info("Creating FAISS index (first-time setup)...")
                 embedding_dim = _self.embeddings.shape[1]
                 _self.index = faiss.IndexFlatL2(embedding_dim)
                 _self.index.add(_self.embeddings)
-                faiss.write_index(_self.index, "Data/SEC5_faiss.index")
+                
+                # Try to save index (might fail in read-only deployment)
+                try:
+                    faiss.write_index(_self.index, faiss_path)
+                    logger.info(f"Created and saved FAISS index to {faiss_path}")
+                except Exception as e:
+                    logger.warning(f"Could not save FAISS index (running in memory): {str(e)}")
             
             # Load sentence transformer model
+            st.info("Loading AI model...")
             _self.model = SentenceTransformer("all-MiniLM-L6-v2")
             
-            logger.info(f"Loaded {len(_self.chunks)} chunks and FAISS index with {_self.index.ntotal} vectors")
+            logger.info(f"Successfully loaded {len(_self.chunks)} chunks and FAISS index with {_self.index.ntotal} vectors")
+            st.success(f"✅ Loaded {len(_self.chunks)} document chunks successfully!")
             return True
             
+        except FileNotFoundError as e:
+            st.error(f"❌ File not found: {str(e)}")
+            st.info("**Deployment Checklist:**\n1. Ensure 'Data' folder is in your repository\n2. Commit SEC5_embeddings.pkl file\n3. Check file paths are relative (not absolute)")
+            logger.error(f"File not found error: {str(e)}")
+            return False
+            
+        except pickle.UnpicklingError as e:
+            st.error(f"❌ Error loading pickle file. The file may be corrupted: {str(e)}")
+            logger.error(f"Pickle error: {str(e)}")
+            return False
+            
         except Exception as e:
-            logger.error(f"Error loading resources: {str(e)}")
+            st.error(f"❌ Unexpected error loading resources: {str(e)}")
+            st.info("Please check the application logs for more details.")
+            logger.error(f"Error loading resources: {str(e)}", exc_info=True)
             return False
     
     def search_documents(self, query, k=5):
         """Search for relevant documents given a query"""
         if not all([self.model, self.chunks, self.index]):
-            return [], []
+            st.error("⚠️ Search system not initialized. Please reload the page.")
+            logger.error("Search attempted with uninitialized components")
+            return [], False
         
         try:
             # Encode query
@@ -75,7 +122,8 @@ class ComplianceChatbot:
             return results, True
             
         except Exception as e:
-            logger.error(f"Error during search: {str(e)}")
+            logger.error(f"Error during search: {str(e)}", exc_info=True)
+            st.error(f"Search error: {str(e)}")
             return [], False
 
 def main():
@@ -127,6 +175,11 @@ def main():
     if 'chatbot' not in st.session_state:
         with st.spinner("Loading compliance documents and models..."):
             st.session_state.chatbot = ComplianceChatbot()
+            
+            # Check if initialization was successful
+            if not st.session_state.chatbot.chunks:
+                st.error("❌ Failed to initialize the chatbot. Please check the errors above.")
+                st.stop()
     
     # Sidebar
     with st.sidebar:
@@ -155,6 +208,8 @@ def main():
             st.metric("Documents Loaded", len(st.session_state.chatbot.chunks))
             st.metric("Search Method", "Semantic Similarity")
             st.metric("Model", "MiniLM-L6-v2")
+        else:
+            st.warning("⚠️ System not ready")
     
     # Main interface
     col1, col2 = st.columns([2, 1])

@@ -25,4 +25,14 @@ venv.bak/
 .DS_Store
 
 # Local data folder (where users extract zipped data)
-Data/
+# Data/
+
+# Don't block these!
+# Data/
+# *.pkl
+
+# But do block these
+__pycache__/
+*.pyc
+.env
+documents/  # Don't upload source documentsData/
