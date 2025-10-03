@@ -6,16 +6,6 @@ FinComBot is an AI-powered compliance chatbot designed to help bank staff quickl
 
 ![AI Chatbot](Images/HeaderImage.jpg)
 
-## Team Members
-
-1. Agnes Chomba
-2. Derrick Malinga
-3. Erick Okacha
-4. Judah Odida
-5. Lucas Ominde
-6. Nick Mwai
-7. Olgah Omollo
-
 ## 1. Business Understanding
 
 Financial institutions face increasing pressure to comply with stringent regulatory frameworks governing customer onboarding, Know Your Customer (KYC), Customer Due Diligence (CDD), Enhanced Due Diligence (EDD), Anti-Money Laundering (AML), Counter Terrorism Financing, Counter Proliferation Financing (CPF), and sanctions screening. These obligations are complex, continuously evolving, and vary across jurisdictions.
@@ -53,149 +43,7 @@ Data Characteristics:Unstructured text (paragraphs, checklists), Multiple sectio
 
 Data Protection: Given the sensitive nature of the data used in this project, it has been excluded from version control by adding it to .gitignore to maintain security and confidentiality.
 
-## 5. Installation
-
-Prerequisites
-- Python 3.8 or higher
-- pip package manager
-
-## 6. Setup Steps
-
-a.)  Clone the repository
-   
-   git clone https://github.com/jodida01/Group_5_Capstone_Project.git cd Group_5_Capstone_Project
-
-b.) Create virtual environment (recommended)
-- python -m venv venv
-
-Windows- venv\Scripts\activate
-
-Mac/Linux- source venv/bin/activate
-
-## 7. Installation Dependancies
-   pip install -r requirements.txt
-
-## 8. Verify data files
-   
-Ensure the following files exist:
-
-- Data/SEC5_embeddings.pkl
-- Model will be downloaded automatically on first run
-
-## 9. Running the Application
-   
-Local Development_ "streamlit run app.py"
-- The application will open in your browser at http://localhost:8501
-
-## 10. Production Deployment
-
-#### Option 1: Streamlit Cloud
-- Push code to GitHub
-- Connect repository to Streamlit Cloud
-- Deploy with one click
-
-#### Option 2: Docker (Coming Soon)
-- Docker build -t fincombot.
-- Docker run -p 8501:8501 fincombot
-
-## 11. Usage Guide
-
-a.) For End Users
-
-Access the application through your browser
-- Enter your question in the search box (e.g., "What documents are needed for church account opening?")
-- Review results ranked by relevance
-- Download results for reference if needed
-
-Sample Queries
-
-- "What documents are needed for church account opening?"
-- "How to open a minor's account?"
-- "What are the AML red flags?"
-- "CDD requirements for foreign nationals"
-- "Enhanced due diligence procedures"
-
-## 12. Technical Details
-
-Architecture
-
-- Frontend: Streamlit
-- Search Engine: FAISS with cosine similarity
-- Embeddings: SentenceTransformers (all-MiniLM-L6-v2)
-- Document Processing: python-docx
-
-## 13. Performance Metrics
-
-- Total Chunks: 109 balanced text segments
-- Embedding Dimension: 384
-- Average Query Time: < 1 second
-- Index Type: FAISS IndexFlatIP (Inner Product)
-
-## 14. Evaluation Results
-
-- Precision@5: 0.33
-- Recall@5: 0.56
-- MRR: 0.33
-
-## 15. Data Security
-
-⚠️ Important: The compliance documents contain sensitive information:
-
-- Documents are excluded from version control (added to .gitignore)
-- Embeddings file is gitignored for security
-- For deployment, ensure secure storage and access controls
-
-## 16. Known Limitations
-
-- Limited to Account Opening Policy: Currently indexes only SEC5 document
-- No Real-time Updates: Embeddings must be regenerated when documents change
-- English Only: No multi-language support
-- Context Window: Limited to 500-character chunks
-
-## 17. Future Enhancements
-
-#### 1. Short-term (Next Sprint)
- - Add more policy documents (AML manual, credit policies)
- - Implement user feedback mechanism
- - Add query history and analytics
- - Improve chunk boundaries (section-aware splitting)
-
-#### 2. Medium-term
- - Multi-document search across all compliance manuals
- - Fine-tune embeddings on banking domain data
- - Add user authentication and role-based access
- - Integrate with core banking system
-
-#### 3. Long-term
- - Conversational interface with context memory
- - Automatic document updates and re-indexing
- - Multi-language support (Swahili, French)
- - Mobile application
-
-## 18. Troubleshooting
-
-Common Issues "Issue: FileNotFoundError: Data/SEC5_embeddings.pkl"
-- Solution: Ensure embeddings file is in the Data/ folder
-- Run the notebook to regenerate embeddings if needed
-
-Issue: Slow loading on first run- Solution: Model downloads on first use (~100MB). Subsequent runs are faster.
-
-Issue: Poor search results- Solution: Try rephrasing your query or using keywords from the document
-
-## 19.  Contributing
-This is an academic project. For the capstone presentation:
-
-## 20. License
-This project is for educational purposes as part of the Moringa School Data Science program.
-
-## 21. Contact
-For questions or issues, contact the team:
-
-Project Lead: Teambers listed above
-
-GitHub: https://github.com/jodida01/Group_5_Capstone_Project
-
-## 21. Modeling & Evaluation
+# Modeling & Evaluation
 
 ## a. Modeling approach
 - Document Embeddings: Compliance policies are preprocessed, cleaned, and transformed into vector embeddings.
@@ -208,11 +56,37 @@ GitHub: https://github.com/jodida01/Group_5_Capstone_Project
 - Relevance Check: Evaluates whether retrieved excerpts correctly reflect the compliance intent.
 - Efficiency: Verifies that FAISS provides scalable, low-latency search over large document sets.
 - Validation: Continuous validation with subject-matter experts (compliance officers) to confirm correctness.
+
+## Evaluation Results
+
+- Precision@5: 0.33
+- Recall@5: 0.56
+- MRR: 0.33
+
 ***
-## 22. Conclusion
+## Known Limitations
+
+- Limited to Account Opening Policy: Currently indexes only SEC5 document
+- No Real-time Updates: Embeddings must be regenerated when documents change
+- English Only: No multi-language support
+- Context Window: Limited to 500-character chunks
+
+# Production Deployment
+
+#### Option 1: Streamlit Cloud
+- Push code to GitHub
+- Connect repository to Streamlit Cloud
+- Deploy with one click
+
+#### Option 2: Docker (Coming Soon)
+- Docker build -t fincombot.
+- Docker run -p 8501:8501 fincombot
+
+
+# Conclusion
 FinComBot provides a structured pipeline for cleaning, preprocessing, and analyzing regulatory documents, preparing them for embedding-based retrieval. The chatbot will empower financial institution staff to access compliance guidance instantly, improving efficiency, reducing regulatory risks, and enhancing customer experience.
 
-## 23. Repository Navigation
+# Repository Navigation
 ```plaintext
 index.ipynb          # Main notebook containing workflow and experiments
 │
@@ -237,5 +111,72 @@ index.ipynb          # Main notebook containing workflow and experiments
     └── Model evaluation & fine-tuning
 ```
 
+##  Installation
 
+Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
+## Setup Steps
+
+a.)  Clone the repository
+   
+   git clone https://github.com/jodida01/Group_5_Capstone_Project.git cd Group_5_Capstone_Project
+
+b.) Create virtual environment (recommended)
+- python -m venv venv
+
+Windows- venv\Scripts\activate
+
+Mac/Linux- source venv/bin/activate
+
+## Installation Dependancies
+   pip install -r requirements.txt
+
+##  Verify data files
+   
+Ensure the following files exist:
+
+- Data/SEC5_embeddings.pkl
+- Model will be downloaded automatically on first run
+
+## Running the Application
+   
+Local Development_ "streamlit run app.py"
+- The application will open in your browser at http://localhost:8501
+
+
+
+##  Usage Guide
+
+a.) For End Users
+
+Access the application through your browser
+- Enter your question in the search box (e.g., "What documents are needed for church account opening?")
+- Review results ranked by relevance
+- Download results for reference if needed
+
+Sample Queries
+
+- "What documents are needed for church account opening?"
+- "How to open a minor's account?"
+- "What are the AML red flags?"
+- "CDD requirements for foreign nationals"
+- "Enhanced due diligence procedures"
+
+##  Technical Details
+
+Architecture
+
+- Frontend: Streamlit
+- Search Engine: FAISS with cosine similarity
+- Embeddings: SentenceTransformers (all-MiniLM-L6-v2)
+- Document Processing: python-docx
+
+##  Contact
+For questions or issues, contact the team:
+
+Project Lead: Teambers listed above
+
+GitHub: https://github.com/jodida01/Group_5_Capstone_Project
 
