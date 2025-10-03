@@ -82,33 +82,25 @@ Ensure the following files exist:
 - Data/SEC5_embeddings.pkl
 - Model will be downloaded automatically on first run
 
-5. ## Running the Application
+## 9. Running the Application
    
-Local Development
+Local Development_ "streamlit run app.py"
+- The application will open in your browser at http://localhost:8501
 
-streamlit run app.py
+## 10. Production Deployment
 
-The application will open in your browser at http://localhost:8501
+#### Option 1: Streamlit Cloud
+- Push code to GitHub
+- Connect repository to Streamlit Cloud
+- Deploy with one click
 
-## Production Deployment
+#### Option 2: Docker (Coming Soon)
+- Docker build -t fincombot.
+- Docker run -p 8501:8501 fincombot
 
-Option 1: Streamlit Cloud
+## 11. Usage Guide
 
-Push code to GitHub
-
-Connect repository to Streamlit Cloud
-
-Deploy with one click
-
-Option 2: Docker (Coming Soon)
-
-docker build -t fincombot .
-
-docker run -p 8501:8501 fincombot
-
-## Usage Guide
-
-For End Users
+a.) For End Users
 
 Access the application through your browser
 - Enter your question in the search box (e.g., "What documents are needed for church account opening?")
@@ -123,7 +115,7 @@ Sample Queries
 - "CDD requirements for foreign nationals"
 - "Enhanced due diligence procedures"
 
-## Technical Details
+## 12. Technical Details
 
 Architecture
 
@@ -132,20 +124,20 @@ Architecture
 - Embeddings: SentenceTransformers (all-MiniLM-L6-v2)
 - Document Processing: python-docx
 
-## Performance Metrics
+## 13. Performance Metrics
 
 - Total Chunks: 109 balanced text segments
 - Embedding Dimension: 384
 - Average Query Time: < 1 second
 - Index Type: FAISS IndexFlatIP (Inner Product)
 
-## Evaluation Results
+## 14. Evaluation Results
 
 - Precision@5: 0.33
 - Recall@5: 0.56
 - MRR: 0.33
 
-## Data Security
+## 15. Data Security
 
 ⚠️ Important: The compliance documents contain sensitive information:
 
@@ -153,83 +145,74 @@ Architecture
 - Embeddings file is gitignored for security
 - For deployment, ensure secure storage and access controls
 
-## Known Limitations
+## 16. Known Limitations
 
 - Limited to Account Opening Policy: Currently indexes only SEC5 document
 - No Real-time Updates: Embeddings must be regenerated when documents change
 - English Only: No multi-language support
 - Context Window: Limited to 500-character chunks
 
-## Future Enhancements
+## 17. Future Enhancements
 
-1. Short-term (Next Sprint)
-
+#### 1. Short-term (Next Sprint)
  - Add more policy documents (AML manual, credit policies)
  - Implement user feedback mechanism
  - Add query history and analytics
  - Improve chunk boundaries (section-aware splitting)
 
-2. Medium-term
-
+#### 2. Medium-term
  - Multi-document search across all compliance manuals
  - Fine-tune embeddings on banking domain data
  - Add user authentication and role-based access
  - Integrate with core banking system
 
-3. Long-term
-
+#### 3. Long-term
  - Conversational interface with context memory
  - Automatic document updates and re-indexing
  - Multi-language support (Swahili, French)
  - Mobile application
 
-## Troubleshooting
+## 18. Troubleshooting
 
-Common Issues
-
-Issue: FileNotFoundError: Data/SEC5_embeddings.pkl
-
+Common Issues "Issue: FileNotFoundError: Data/SEC5_embeddings.pkl"
 - Solution: Ensure embeddings file is in the Data/ folder
 - Run the notebook to regenerate embeddings if needed
 
-Issue: Slow loading on first run
+Issue: Slow loading on first run- Solution: Model downloads on first use (~100MB). Subsequent runs are faster.
 
-Solution: Model downloads on first use (~100MB). Subsequent runs are faster.
+Issue: Poor search results- Solution: Try rephrasing your query or using keywords from the document
 
-Issue: Poor search results
-
-Solution: Try rephrasing your query or using keywords from the document
-
-## Contributing
+## 19.  Contributing
 This is an academic project. For the capstone presentation:
 
-License
+## 20. License
 This project is for educational purposes as part of the Moringa School Data Science program.
 
-Contact
+## 21. Contact
 For questions or issues, contact the team:
 
 Project Lead: Teambers listed above
 
 GitHub: https://github.com/jodida01/Group_5_Capstone_Project
 
-## Modeling & Evaluation
+## 21. Modeling & Evaluation
 
-## Modeling approach
+## a. Modeling approach
 - Document Embeddings: Compliance policies are preprocessed, cleaned, and transformed into vector embeddings.
 - Embedding Storage: These embeddings are serialized (SEC5_embeddings.pkl) for efficient reuse.
 - Similarity Search: A FAISS index is used to match user queries against the embedded policy text, enabling semantic navigation beyond keyword matching.
 - Model Goal: Ensure relevant, context-aware answers that align with compliance rules and procedures.
 
-## Evaluation
+## b. Evaluation
 - Retrieval Testing: Queries are benchmarked against expected policy responses to confirm accuracy.
 - Relevance Check: Evaluates whether retrieved excerpts correctly reflect the compliance intent.
 - Efficiency: Verifies that FAISS provides scalable, low-latency search over large document sets.
 - Validation: Continuous validation with subject-matter experts (compliance officers) to confirm correctness.
 ***
-## Conclusion
+## 22. Conclusion
 FinComBot provides a structured pipeline for cleaning, preprocessing, and analyzing regulatory documents, preparing them for embedding-based retrieval. The chatbot will empower financial institution staff to access compliance guidance instantly, improving efficiency, reducing regulatory risks, and enhancing customer experience.
-## Repository Navigation
+
+## 23. Repository Navigation
 ```plaintext
 index.ipynb          # Main notebook containing workflow and experiments
 │
