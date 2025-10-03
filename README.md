@@ -53,13 +53,13 @@ Data Characteristics:Unstructured text (paragraphs, checklists), Multiple sectio
 
 Data Protection: Given the sensitive nature of the data used in this project, it has been excluded from version control by adding it to .gitignore to maintain security and confidentiality.
 
-5. ## Installation
+## 5. Installation
 
 Prerequisites
 - Python 3.8 or higher
 - pip package manager
 
-## Setup Steps
+## 6. Setup Steps
 
 1. Clone the repository
    
