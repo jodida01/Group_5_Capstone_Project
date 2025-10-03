@@ -61,32 +61,26 @@ Prerequisites
 
 ## 6. Setup Steps
 
-1. Clone the repository
+a.)  Clone the repository
    
-   git clone https://github.com/jodida01/Group_5_Capstone_Project.git
-cd Group_5_Capstone_Project
+   git clone https://github.com/jodida01/Group_5_Capstone_Project.git cd Group_5_Capstone_Project
 
-2. ## Create virtual environment (recommended)
+b.) Create virtual environment (recommended)
+- python -m venv venv
 
-python -m venv venv
+Windows- venv\Scripts\activate
 
-# Windows
-venv\Scripts\activate
+Mac/Linux- source venv/bin/activate
 
-# Mac/Linux
-source venv/bin/activate
+## 7. Installation Dependancies
+   pip install -r requirements.txt
 
-3. ## Installation Dependancies
-   
-pip install -r requirements.txt
-
-4. ## Verify data files
+## 8. Verify data files
    
 Ensure the following files exist:
 
-Data/SEC5_embeddings.pkl
-
-Model will be downloaded automatically on first run
+- Data/SEC5_embeddings.pkl
+- Model will be downloaded automatically on first run
 
 5. ## Running the Application
    
