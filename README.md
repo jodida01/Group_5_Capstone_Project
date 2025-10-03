@@ -1,9 +1,34 @@
-# FINCOMBOT -- COMPLIANCE CHATBOT
+# FinComBot - Compliance Chatbot
 
-FinComBot is an AI-powered compliance chatbot designed to streamline customer onboarding and strengthen regulatory compliance in financial institutions. It achieves this by providing staff with instant, policy-aligned answers to KYC and AML-related queries. The project will follow a phased implementation approach, beginning with a pilot focused on KYC and onboarding procedures.
+## Project Overview
+
+FinComBot is an AI-powered compliance chatbot designed to help bank staff quickly access information from KYC/AML/CFT/CPF policy documents. The system uses semantic search with sentence embeddings to retrieve relevant compliance information.
 
 ![AI Chatbot](Images/HeaderImage.jpg)
 
+## Team Members
+
+Agnes Chomba
+Derrick Malinga
+Erick Okacha
+Judah Odida
+Lucas Ominde
+Nick Mwai
+Olgah Omollo
+
+## Project Structure
+
+Group_5_Capstone_Project/
+│
+├── Data/
+│   ├── SEC5_embeddings.pkl          # Pre-computed embeddings
+│   └── SEC5 - OPENING OF ACCOUNTS (004).docx  # Source document
+│
+├── app.py                            # Streamlit web application
+├── search_engine.py                  # Core search functionality
+├── requirements.txt                  # Python dependencies
+├── index.ipynb                       # Development notebook
+└── README.md                         # This file
 
 ## 1. Business Understanding
 
@@ -42,7 +67,173 @@ Data Characteristics:Unstructured text (paragraphs, checklists), Multiple sectio
 
 Data Protection: Given the sensitive nature of the data used in this project, it has been excluded from version control by adding it to .gitignore to maintain security and confidentiality.
 
-## 5. Modeling & Evaluation
+## Installation
+
+## Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
+## Setup Steps
+
+1. Clone the repository
+   
+   git clone https://github.com/jodida01/Group_5_Capstone_Project.git
+cd Group_5_Capstone_Project
+
+2. ## Create virtual environment (recommended)
+
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# Mac/Linux
+source venv/bin/activate
+
+3. ## Installation Dependancies
+   
+pip install -r requirements.txt
+
+4. ## Verify data files
+   
+Ensure the following files exist:
+
+Data/SEC5_embeddings.pkl
+
+Model will be downloaded automatically on first run
+
+5. ## Running the Application
+   
+Local Development
+
+streamlit run app.py
+
+The application will open in your browser at http://localhost:8501
+
+## Production Deployment
+
+Option 1: Streamlit Cloud
+
+Push code to GitHub
+
+Connect repository to Streamlit Cloud
+
+Deploy with one click
+
+Option 2: Docker (Coming Soon)
+
+docker build -t fincombot .
+
+docker run -p 8501:8501 fincombot
+
+## Usage Guide
+
+For End Users
+
+Access the application through your browser
+- Enter your question in the search box (e.g., "What documents are needed for church account opening?")
+- Review results ranked by relevance
+- Download results for reference if needed
+
+Sample Queries
+
+- "What documents are needed for church account opening?"
+- "How to open a minor's account?"
+- "What are the AML red flags?"
+- "CDD requirements for foreign nationals"
+- "Enhanced due diligence procedures"
+
+## Technical Details
+
+Architecture
+
+- Frontend: Streamlit
+- Search Engine: FAISS with cosine similarity
+- Embeddings: SentenceTransformers (all-MiniLM-L6-v2)
+- Document Processing: python-docx
+
+## Performance Metrics
+
+- Total Chunks: 109 balanced text segments
+- Embedding Dimension: 384
+- Average Query Time: < 1 second
+- Index Type: FAISS IndexFlatIP (Inner Product)
+
+## Evaluation Results
+
+- Precision@5: 0.33
+- Recall@5: 0.56
+- MRR: 0.33
+
+## Data Security
+
+⚠️ Important: The compliance documents contain sensitive information:
+
+- Documents are excluded from version control (added to .gitignore)
+- Embeddings file is gitignored for security
+- For deployment, ensure secure storage and access controls
+
+## Known Limitations
+
+- Limited to Account Opening Policy: Currently indexes only SEC5 document
+- No Real-time Updates: Embeddings must be regenerated when documents change
+- English Only: No multi-language support
+- Context Window: Limited to 500-character chunks
+
+## Future Enhancements
+
+1. Short-term (Next Sprint)
+
+ - Add more policy documents (AML manual, credit policies)
+ - Implement user feedback mechanism
+ - Add query history and analytics
+ - Improve chunk boundaries (section-aware splitting)
+
+2. Medium-term
+
+ - Multi-document search across all compliance manuals
+ - Fine-tune embeddings on banking domain data
+ - Add user authentication and role-based access
+ - Integrate with core banking system
+
+3. Long-term
+
+ - Conversational interface with context memory
+ - Automatic document updates and re-indexing
+ - Multi-language support (Swahili, French)
+ - Mobile application
+
+## Troubleshooting
+
+Common Issues
+
+Issue: FileNotFoundError: Data/SEC5_embeddings.pkl
+
+- Solution: Ensure embeddings file is in the Data/ folder
+- Run the notebook to regenerate embeddings if needed
+
+Issue: Slow loading on first run
+
+Solution: Model downloads on first use (~100MB). Subsequent runs are faster.
+
+Issue: Poor search results
+
+Solution: Try rephrasing your query or using keywords from the document
+
+## Contributing
+This is an academic project. For the capstone presentation:
+
+License
+This project is for educational purposes as part of the Moringa School Data Science program.
+
+Contact
+For questions or issues, contact the team:
+
+Project Lead: Teambers listed above
+
+GitHub: https://github.com/jodida01/Group_5_Capstone_Project
+
+## Modeling & Evaluation
 
 ## Modeling approach
 - Document Embeddings: Compliance policies are preprocessed, cleaned, and transformed into vector embeddings.
@@ -56,9 +247,9 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 - Efficiency: Verifies that FAISS provides scalable, low-latency search over large document sets.
 - Validation: Continuous validation with subject-matter experts (compliance officers) to confirm correctness.
 ***
-## 6. Conclusion
+## Conclusion
 FinComBot provides a structured pipeline for cleaning, preprocessing, and analyzing regulatory documents, preparing them for embedding-based retrieval. The chatbot will empower financial institution staff to access compliance guidance instantly, improving efficiency, reducing regulatory risks, and enhancing customer experience.
-## 7. Repository Navigation
+## Repository Navigation
 ```plaintext
 index.ipynb          # Main notebook containing workflow and experiments
 │
