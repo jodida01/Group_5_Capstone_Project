@@ -8,27 +8,13 @@ FinComBot is an AI-powered compliance chatbot designed to help bank staff quickl
 
 ## Team Members
 
-Agnes Chomba
-Derrick Malinga
-Erick Okacha
-Judah Odida
-Lucas Ominde
-Nick Mwai
-Olgah Omollo
-
-## Project Structure
-
-Group_5_Capstone_Project/
-│
-├── Data/
-│   ├── SEC5_embeddings.pkl          # Pre-computed embeddings
-│   └── SEC5 - OPENING OF ACCOUNTS (004).docx  # Source document
-│
-├── app.py                            # Streamlit web application
-├── search_engine.py                  # Core search functionality
-├── requirements.txt                  # Python dependencies
-├── index.ipynb                       # Development notebook
-└── README.md                         # This file
+1. Agnes Chomba
+2. Derrick Malinga
+3. Erick Okacha
+4. Judah Odida
+5. Lucas Ominde
+6. Nick Mwai
+7. Olgah Omollo
 
 ## 1. Business Understanding
 
@@ -67,9 +53,9 @@ Data Characteristics:Unstructured text (paragraphs, checklists), Multiple sectio
 
 Data Protection: Given the sensitive nature of the data used in this project, it has been excluded from version control by adding it to .gitignore to maintain security and confidentiality.
 
-## Installation
+5. ## Installation
 
-## Prerequisites
+Prerequisites
 - Python 3.8 or higher
 - pip package manager
 
