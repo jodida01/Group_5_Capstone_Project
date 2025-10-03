@@ -43,7 +43,7 @@ Data Characteristics:Unstructured text (paragraphs, checklists), Multiple sectio
 
 Data Protection: Given the sensitive nature of the data used in this project, it has been excluded from version control by adding it to .gitignore to maintain security and confidentiality.
 
-# Modeling & Evaluation
+# 5. Modeling & Evaluation
 
 ## a. Modeling approach
 - Document Embeddings: Compliance policies are preprocessed, cleaned, and transformed into vector embeddings.
@@ -71,7 +71,7 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 - English Only: No multi-language support
 - Context Window: Limited to 500-character chunks
 
-# Production Deployment
+# 5.0 Production Deployment
 
 #### Option 1: Streamlit Cloud
 - Push code to GitHub
@@ -83,10 +83,10 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 - Docker run -p 8501:8501 fincombot
 
 
-# Conclusion
+# 6.0 Conclusion
 FinComBot provides a structured pipeline for cleaning, preprocessing, and analyzing regulatory documents, preparing them for embedding-based retrieval. The chatbot will empower financial institution staff to access compliance guidance instantly, improving efficiency, reducing regulatory risks, and enhancing customer experience.
 
-# Repository Navigation
+# 7.0 Repository Navigation
 ```plaintext
 index.ipynb          # Main notebook containing workflow and experiments
 │
@@ -111,13 +111,13 @@ index.ipynb          # Main notebook containing workflow and experiments
     └── Model evaluation & fine-tuning
 ```
 
-##  Installation
+##  i) Installation
 
 Prerequisites
 - Python 3.8 or higher
 - pip package manager
 
-## Setup Steps
+## ii) Setup Steps
 
 a.)  Clone the repository
    
@@ -130,24 +130,24 @@ Windows- venv\Scripts\activate
 
 Mac/Linux- source venv/bin/activate
 
-## Installation Dependancies
+## iii) Installation Dependancies
    pip install -r requirements.txt
 
-##  Verify data files
+##  iv) Verify data files
    
 Ensure the following files exist:
 
 - Data/SEC5_embeddings.pkl
 - Model will be downloaded automatically on first run
 
-## Running the Application
+## v) Running the Application
    
 Local Development_ "streamlit run app.py"
 - The application will open in your browser at http://localhost:8501
 
 
 
-##  Usage Guide
+## vi) Usage Guide
 
 a.) For End Users
 
@@ -164,7 +164,7 @@ Sample Queries
 - "CDD requirements for foreign nationals"
 - "Enhanced due diligence procedures"
 
-##  Technical Details
+## vii) Technical Details
 
 Architecture
 
@@ -173,7 +173,7 @@ Architecture
 - Embeddings: SentenceTransformers (all-MiniLM-L6-v2)
 - Document Processing: python-docx
 
-##  Contact
+##  viii) Contact
 For questions or issues, contact the team:
 
 Project Lead: Teambers listed above
