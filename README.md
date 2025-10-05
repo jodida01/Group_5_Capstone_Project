@@ -59,9 +59,9 @@ Data Protection: Given the sensitive nature of the data used in this project, it
 
 ## Evaluation Results
 
-- Precision@5: 0.33
-- Recall@5: 0.56
-- MRR: 0.33
+- Precision@20: 0.40
+- Recall@20: 0.73
+- MRR: 0.81
 
 ***
 ## Known Limitations
