@@ -174,7 +174,7 @@ Architecture
 - Document Processing: python-docx
 
 ##  viii) Contact
-For questions or issues, contact the team:
+For inquiries or issues, contact the team:
 
 Project Lead: Teambers listed above
 
