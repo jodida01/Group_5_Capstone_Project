@@ -145,6 +145,9 @@ Ensure the following files exist:
 Local Development_ "streamlit run app.py"
 - The application will open in your browser at http://localhost:8501
 
+Public Live link
+- The application will open in live Web App at https://group5capstoneprojectgit-cfchj7ar5jfntybbdcbh2g.streamlit.app/
+
 
 
 ## vi) Usage Guide
